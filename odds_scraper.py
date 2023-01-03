@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 
 from webdriver_manager.chrome import ChromeDriverManager
 
-def main():
+def get_odds():
     fanduel_url = input('Enter the Fanduel url: ')
     mgm_url = input('Enter the BetMGM url: ')
     draftkings_url = input('Enter the DraftKings url: ')
@@ -25,13 +25,9 @@ def main():
     get_mgm_matches(mgm_html, match_odds)
     get_draftkings_matches(draftkings_html, match_odds)
 
-    for match, odds in match_odds.items():
-        print(len(odds['p1_odds']))
-        if (len(odds['p1_odds']) != len(odds['p2_odds'])):
-            print('uneven')
-    
-    # draftkings_html = get_page_html(driver, draftkings_url)
     driver.quit()
+
+    return match_odds
 
 def get_fanduel_matches(fanduel_html, match_odds):
     soup = BeautifulSoup(fanduel_html, 'html.parser')
@@ -159,4 +155,4 @@ def swap_minus(player_odds):
     return player_odds
 
 if __name__ == '__main__':
-    main()
+    get_odds()
