@@ -1,0 +1,1528 @@
+<ul class="aj s h i j al l m am o an q ao" style="flex-direction: column; overflow: hidden auto; display: flex; min-width: 0px;">
+ <li>
+  <div class="hn aj s h i j al l m am o an q ao">
+   <div style="box-shadow: rgba(0, 0, 0, 0.2) 0px 1px 4px; overflow: hidden; border-radius: 4px 4px 0px 0px;">
+    <div class="af ap ah az aj ho fn s hp hq bk h i j al l m am o an q ao">
+     <h2 class="ct cu ae aj hr hs ht hu s fx bq ay h i j al l m am o an q ao fu">
+      Upcoming
+     </h2>
+    </div>
+   </div>
+  </div>
+ </li>
+ <li>
+  <div class="hn aj s h i j al l m am o an q ao">
+   <div style="box-shadow: 0px 0px 0px; overflow: hidden; border-radius: 0px;">
+    <div class="af ap ah az aj hv ee s aw ax hp hq bk h i j al l m am o an q ao">
+     <h3 class="ae aj hr hs ht hw hx s fx ex h i j al l m am o an q ao fu">
+      ATP Adelaide 2023
+     </h3>
+    </div>
+   </div>
+  </div>
+ </li>
+ <li>
+  <div class="hn aj s h i j al l m am o an q ao">
+   <div class="af ag ah ai ct cu aj fn s df hp hq bk h i j al l m am o an q ao">
+    <div class="af ap ah ai aj hy s ca cd ay h i j al l m am o an q ao">
+     <a class="af ag ba ai ct cu aj s hz h i j al l m am o an q ao" href="/tennis/atp-adelaide-2023/cachin-v-khachanov-31994431" style="cursor: pointer;" target="_self" title="Cachin v Khachanov">
+      <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+       <div class="af ap ah az aj ia du ib h i j al l m am o an q ao">
+        <div class="af ag ah ai aj s h i j al l m am o an q ao">
+         <svg fill="#445058" height="10" style="flex-shrink: 0;" viewbox="0 0 8 10" width="8">
+          <path d="M8 5l-8 5V0z" fill-rule="evenodd">
+          </path>
+         </svg>
+        </div>
+       </div>
+       <div class="af ap as ai ct cu aj s h i j al l m am o an q ao">
+        <div class="af ag ba ai ia ct cu aj ic s h i j al l m am o an q ao">
+         <div class="af ap ah az aj s id h i j al l m am o an q ao">
+          <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+           <span class="ae aj ie if ig ih hr hs ht hw ii s ff ec ij h i j al l m am o an q ao br">
+            Pedro Cachin
+           </span>
+          </div>
+         </div>
+        </div>
+        <div class="af ap ik ai aj s gh h i j al l m am o an q ao">
+         <div aria-label="has won 0 sets and  has won 0 games " class="af ap ah ai aj s ji h i j al l m am o an q ao">
+          <div class="af ag ba ai aj jj s h i j al l m am o an q ao">
+           <span class="aj s fx ex gl h i j al l m am o an q ao br">
+            0
+           </span>
+          </div>
+          <div class="af ag ba ai aj jj s gh h i j al l m am o an q ao">
+           <span class="aj s fx ex gl h i j al l m am o an q ao br">
+            0
+           </span>
+          </div>
+         </div>
+         <div aria-label="current score 30" class="af ag ba ai jp aj jq cz ee s jr js gh gj jd bk jt h i j al l m am o an q ao">
+          <span class="aj s fx ex gl ju jv h i j al l m am o an q ao br">
+           30
+          </span>
+          <span class="ae aj jo s fx ex gl ip h i j al l m am o an q ao br">
+           30
+          </span>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="af ap ba az hn aj fz s h i j al l m am o an q ao">
+       <svg aria-label="verse" height="15" id="versusHeadToHead_svg__VS" style="flex-shrink: 0;" viewbox="0 0 13 9" width="15" x="0" xml:space="preserve" y="0">
+        <path d="M6.604.891L3.992 8H2.775L.157.891h1.251L3.37 6.735h.027L5.366.891z" fill="#B9C4CB" id="versusHeadToHead_svg__V">
+        </path>
+        <path d="M7.13 2.853C7.13 1.636 8.203.768 9.741.768c1.559 0 2.598.916 2.646 2.174h-1.135c-.089-.745-.636-1.203-1.511-1.203-.868 0-1.442.431-1.442 1.053 0 .492.362.827 1.155 1.019l1.128.273c1.436.349 1.955.909 1.955 1.928 0 1.237-1.169 2.112-2.755 2.112-1.668 0-2.707-.841-2.844-2.174h1.189c.144.813.69 1.203 1.654 1.203s1.559-.41 1.559-1.053c0-.513-.28-.807-1.094-1.005l-1.127-.274C7.78 4.5 7.13 3.878 7.13 2.853z" fill="#B9C4CB" id="versusHeadToHead_svg__S">
+        </path>
+       </svg>
+       <div class="af ap ah ai ct cu aj fz il s h i j al l m am o an q ao">
+       </div>
+      </div>
+      <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+       <div class="af ap ah az aj ia du ib h i j al l m am o an q ao">
+       </div>
+       <div class="af ap as ai ct cu aj s h i j al l m am o an q ao">
+        <div class="af ag ba ai ia ct cu aj ic s h i j al l m am o an q ao">
+         <div class="af ap ah az aj s id h i j al l m am o an q ao">
+          <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+           <span class="ae aj ie if ig ih hr hs ht hw ii s ff ec ij h i j al l m am o an q ao br">
+            Karen Khachanov
+           </span>
+          </div>
+         </div>
+        </div>
+        <div class="af ap ik ai aj s gh h i j al l m am o an q ao">
+         <div aria-label="has won 1 set and  has won 2 games " class="af ap ah ai aj s ji h i j al l m am o an q ao">
+          <div class="af ag ba ai aj jj s h i j al l m am o an q ao">
+           <span class="aj s fx ex gl h i j al l m am o an q ao fu">
+            1
+           </span>
+          </div>
+          <div class="af ag ba ai aj jj s gh h i j al l m am o an q ao">
+           <span class="aj s fx ex gl h i j al l m am o an q ao br">
+            2
+           </span>
+          </div>
+         </div>
+         <div aria-label="current score 30" class="af ag ba ai jp aj jq cz ee s jr js gh gj jd bk jt h i j al l m am o an q ao">
+          <span class="aj s fx ex gl ju jv h i j al l m am o an q ao br">
+           30
+          </span>
+          <span class="ae aj jo s fx ex gl ip h i j al l m am o an q ao br">
+           30
+          </span>
+         </div>
+        </div>
+       </div>
+      </div>
+     </a>
+     <div class="af ag ba az aj im s h i j al l m am o an q ao">
+      <div class="af ag ba az ct cu aj cv jc cx s cd gj is bk y h i j al l m am o an q ao" role="button" style="cursor: pointer;" tabindex="0">
+       <span class="in io ff ex ix ja fu">
+        +3000
+       </span>
+      </div>
+      <div class="af ag gf az ct cu aj cv jc fn s gj jd bk y h i j al l m am o an q ao" role="button" tabindex="0">
+       <svg data-name="Layer 1" fill="#B9C4CB" height="22" id="lock_svg__Layer_1" style="flex-shrink: 0;" viewbox="0 0 17.01 17.01" width="22">
+        <g id="lock_svg__lock">
+         <path d="M13.5 6H12V3.5a3.5 3.5 0 00-7 0V6H3.5A1.5 1.5 0 002 7.5v8A1.5 1.5 0 003.5 17h10a1.5 1.5 0 001.5-1.5v-8A1.5 1.5 0 0013.5 6zM6 3.5a2.5 2.5 0 015 0V6H6zm8 12a.5.5 0 01-.5.5h-10a.5.5 0 01-.5-.5v-8a.5.5 0 01.5-.5h10a.5.5 0 01.5.5z">
+         </path>
+         <path d="M8.5 9a1.5 1.5 0 00-.5 2.91v1.59a.5.5 0 001 0v-1.59A1.5 1.5 0 008.5 9zm0 2a.5.5 0 11.5-.5.5.5 0 01-.5.5z">
+         </path>
+        </g>
+       </svg>
+      </div>
+     </div>
+    </div>
+    <a class="af ap ah ai aj s h i j al l m am o an q ao" href="/tennis/atp-adelaide-2023/cachin-v-khachanov-31994431" style="cursor: pointer;" target="_self" title="Cachin v Khachanov">
+     <div class="af ap as az aj cv bw s aw ax h i j al l m am o an q ao">
+      <div class="af ap ah az aj s h i j al l m am o an q ao">
+       <svg aria-label="live event" fill="#E44242" height="16" role="img" style="flex-shrink: 0;" width="28">
+        <title>
+         live event
+        </title>
+        <path d="M2 0h24a2 2 0 012 2v12a2 2 0 01-2 2H2a2 2 0 01-2-2V2a2 2 0 012-2z" id="LiveTag_svg__a">
+        </path>
+        <path d="M7.514 12v-.852h-2.88V3.996h-.96V12h3.84zm3.172 0V3.996h-.96V12h.96zm5.476 0l2.388-8.004h-1.044l-1.92 6.864-1.932-6.864h-1.032L15.01 12h1.152zm8.44 0v-.852h-3.156v-2.82h3.072v-.84h-3.072v-2.64h3.156v-.852h-4.116V12h4.116z" fill="#FFF" fill-rule="nonzero">
+        </path>
+       </svg>
+       <svg aria-label="[title]" height="16" role="img" style="margin-right: 0px; margin-left: 4px; flex-shrink: 0;" viewbox="0 0 50 17" width="49">
+        <title>
+         live stream
+        </title>
+        <rect fill="#CFD6DB" height="17" rx="2" width="50">
+        </rect>
+        <path d="M4.348 11.148c.54.6 1.344.996 2.388.996 1.644 0 2.424-1.032 2.424-2.22 0-1.5-1.116-2.04-2.112-2.52-.78-.384-1.488-.732-1.488-1.488 0-.72.552-1.188 1.284-1.188.636 0 1.212.216 1.656.696l.504-.72c-.516-.54-1.248-.84-2.136-.84-1.32 0-2.292.876-2.292 2.1 0 1.404 1.08 1.884 2.04 2.34.816.396 1.572.78 1.572 1.68 0 .684-.456 1.308-1.452 1.308-.78 0-1.452-.396-1.86-.888l-.528.744zm8.414.852h.948V4.848h1.896v-.852h-4.74v.852h1.896V12zm8.624 0h1.08l-1.668-3.348c.792-.144 1.596-.84 1.596-2.268 0-1.464-.912-2.388-2.196-2.388H17.75V12h.96V8.808h1.14L21.386 12zm.012-5.604c0 .912-.492 1.56-1.32 1.56H18.71V4.848h1.368c.828 0 1.32.636 1.32 1.548zM24.844 12h4.116v-.852h-3.156v-2.82h3.072v-.84h-3.072v-2.64h3.156v-.852h-4.116V12zm10.66 0h1.043L34.16 3.996h-1.152L30.62 12h1.032l.504-1.812H35L35.503 12zm-1.92-6.948l1.211 4.296h-2.424l1.212-4.296zM44.048 12h.948V3.996h-1.332l-1.932 5.712-1.908-5.712H38.48V12h.96V5.688L41.54 12h.384l2.124-6.312V12z" fill="#1F375B">
+        </path>
+       </svg>
+       <div class="af ap ah az aj s h i j al l m am o an q ao">
+        <div class="af ap dy az aj s h i j al l m am o an q ao">
+         <div class="af ag ah bb aj s h i j al l m am o an q ao">
+          <span class="aj jk jl jm jn ii s fx ex iy fy ed h i j al l m am o an q ao iz">
+           2ND SET
+          </span>
+          <span class="aj jk jl jm jn ii jo s fx ex iy fy ed ip h i j al l m am o an q ao iz">
+           2ND SET
+          </span>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="af ap ah az aj bo cz cx s gh h i j al l m am o an q ao">
+       <span class="aj je s ff ex fo h i j al l m am o an q ao br">
+        More wagers
+       </span>
+       <svg fill="#1381E0" height="9" style="flex-shrink: 0;" viewbox="0 0 5 9" width="5">
+        <g id="arrow-right_svg__Page-1" stroke="none" stroke-width="1">
+         <path d="M.148.148a.5.5 0 000 .71l3.636 3.637L.148 8.143a.502.502 0 00.709.71l3.995-3.998a.5.5 0 000-.71L.857.149a.5.5 0 00-.71 0z" id="arrow-right_svg__arrow-right">
+         </path>
+        </g>
+       </svg>
+      </div>
+     </div>
+    </a>
+   </div>
+  </div>
+ </li>
+ <li>
+  <div class="hn aj s h i j al l m am o an q ao">
+   <div class="af ag ah ai ct cu aj fn s df hp hq bk h i j al l m am o an q ao">
+    <div class="af ap ah ai aj hy s ca cd ay h i j al l m am o an q ao">
+     <a class="af ag ba ai ct cu aj s hz h i j al l m am o an q ao" href="/tennis/atp-adelaide-2023/djokovic-v-lestienne-31994401" style="cursor: pointer;" target="_self" title="Djokovic v Lestienne">
+      <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+       <div class="af ap ah az aj ia du ib h i j al l m am o an q ao">
+       </div>
+       <div class="af ap as ai ct cu aj s h i j al l m am o an q ao">
+        <div class="af ag ba ai ia ct cu aj ic s h i j al l m am o an q ao">
+         <div class="af ap ah az aj s id h i j al l m am o an q ao">
+          <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+           <span class="ae aj ie if ig ih hr hs ht hw ii s ff ec ij h i j al l m am o an q ao br">
+            Novak Djokovic
+           </span>
+          </div>
+         </div>
+        </div>
+        <div class="af ap ik ai aj s gh h i j al l m am o an q ao">
+         <div aria-label="has won 0 sets and  has won 2 games " class="af ap ah ai aj s ji h i j al l m am o an q ao">
+          <div class="af ag ba ai aj jj s h i j al l m am o an q ao">
+           <span class="aj s fx ex gl h i j al l m am o an q ao br">
+            0
+           </span>
+          </div>
+          <div class="af ag ba ai aj jj s gh h i j al l m am o an q ao">
+           <span class="aj s fx ex gl h i j al l m am o an q ao br">
+            2
+           </span>
+          </div>
+         </div>
+         <div aria-label="current score 0" class="af ag ba ai jp aj jq cz ee s jr js gh gj jd bk jt h i j al l m am o an q ao">
+          <span class="aj s fx ex gl ju jv h i j al l m am o an q ao br">
+           0
+          </span>
+          <span class="ae aj jo s fx ex gl ip h i j al l m am o an q ao br">
+           0
+          </span>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="af ap ba az hn aj fz s h i j al l m am o an q ao">
+       <svg aria-label="verse" height="15" id="versusHeadToHead_svg__VS" style="flex-shrink: 0;" viewbox="0 0 13 9" width="15" x="0" xml:space="preserve" y="0">
+        <path d="M6.604.891L3.992 8H2.775L.157.891h1.251L3.37 6.735h.027L5.366.891z" fill="#B9C4CB" id="versusHeadToHead_svg__V">
+        </path>
+        <path d="M7.13 2.853C7.13 1.636 8.203.768 9.741.768c1.559 0 2.598.916 2.646 2.174h-1.135c-.089-.745-.636-1.203-1.511-1.203-.868 0-1.442.431-1.442 1.053 0 .492.362.827 1.155 1.019l1.128.273c1.436.349 1.955.909 1.955 1.928 0 1.237-1.169 2.112-2.755 2.112-1.668 0-2.707-.841-2.844-2.174h1.189c.144.813.69 1.203 1.654 1.203s1.559-.41 1.559-1.053c0-.513-.28-.807-1.094-1.005l-1.127-.274C7.78 4.5 7.13 3.878 7.13 2.853z" fill="#B9C4CB" id="versusHeadToHead_svg__S">
+        </path>
+       </svg>
+       <div class="af ap ah ai ct cu aj fz il s h i j al l m am o an q ao">
+       </div>
+      </div>
+      <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+       <div class="af ap ah az aj ia du ib h i j al l m am o an q ao">
+        <div class="af ag ah ai aj s h i j al l m am o an q ao">
+         <svg fill="#445058" height="10" style="flex-shrink: 0;" viewbox="0 0 8 10" width="8">
+          <path d="M8 5l-8 5V0z" fill-rule="evenodd">
+          </path>
+         </svg>
+        </div>
+       </div>
+       <div class="af ap as ai ct cu aj s h i j al l m am o an q ao">
+        <div class="af ag ba ai ia ct cu aj ic s h i j al l m am o an q ao">
+         <div class="af ap ah az aj s id h i j al l m am o an q ao">
+          <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+           <span class="ae aj ie if ig ih hr hs ht hw ii s ff ec ij h i j al l m am o an q ao br">
+            Constant Lestienne
+           </span>
+          </div>
+         </div>
+        </div>
+        <div class="af ap ik ai aj s gh h i j al l m am o an q ao">
+         <div aria-label="has won 0 sets and  has won 1 game " class="af ap ah ai aj s ji h i j al l m am o an q ao">
+          <div class="af ag ba ai aj jj s h i j al l m am o an q ao">
+           <span class="aj s fx ex gl h i j al l m am o an q ao br">
+            0
+           </span>
+          </div>
+          <div class="af ag ba ai aj jj s gh h i j al l m am o an q ao">
+           <span class="aj s fx ex gl h i j al l m am o an q ao br">
+            1
+           </span>
+          </div>
+         </div>
+         <div aria-label="current score 0" class="af ag ba ai jp aj jq cz ee s jr js gh gj jd bk jt h i j al l m am o an q ao">
+          <span class="aj s fx ex gl ju jv h i j al l m am o an q ao br">
+           0
+          </span>
+          <span class="ae aj jo s fx ex gl ip h i j al l m am o an q ao br">
+           0
+          </span>
+         </div>
+        </div>
+       </div>
+      </div>
+     </a>
+     <div class="af ag ba az aj im s h i j al l m am o an q ao">
+      <div class="af ag ba az ct cu aj cv jc cx s cd gj is bk y h i j al l m am o an q ao" role="button" style="cursor: pointer;" tabindex="0">
+       <span class="in io ff ex ix ja fu">
+        -5000
+       </span>
+      </div>
+      <div class="af ag ba az ct cu aj cv jc cx s gj is bk y h i j al l m am o an q ao" role="button" style="cursor: pointer;" tabindex="0">
+       <span class="in io ff ex ix ja fu">
+        +1280
+       </span>
+      </div>
+     </div>
+    </div>
+    <a class="af ap ah ai aj s h i j al l m am o an q ao" href="/tennis/atp-adelaide-2023/djokovic-v-lestienne-31994401" style="cursor: pointer;" target="_self" title="Djokovic v Lestienne">
+     <div class="af ap as az aj cv bw s aw ax h i j al l m am o an q ao">
+      <div class="af ap ah az aj s h i j al l m am o an q ao">
+       <svg aria-label="live event" fill="#E44242" height="16" role="img" style="flex-shrink: 0;" width="28">
+        <title>
+         live event
+        </title>
+        <path d="M2 0h24a2 2 0 012 2v12a2 2 0 01-2 2H2a2 2 0 01-2-2V2a2 2 0 012-2z" id="LiveTag_svg__a">
+        </path>
+        <path d="M7.514 12v-.852h-2.88V3.996h-.96V12h3.84zm3.172 0V3.996h-.96V12h.96zm5.476 0l2.388-8.004h-1.044l-1.92 6.864-1.932-6.864h-1.032L15.01 12h1.152zm8.44 0v-.852h-3.156v-2.82h3.072v-.84h-3.072v-2.64h3.156v-.852h-4.116V12h4.116z" fill="#FFF" fill-rule="nonzero">
+        </path>
+       </svg>
+       <svg aria-label="[title]" height="16" role="img" style="margin-right: 0px; margin-left: 4px; flex-shrink: 0;" viewbox="0 0 50 17" width="49">
+        <title>
+         live stream
+        </title>
+        <rect fill="#CFD6DB" height="17" rx="2" width="50">
+        </rect>
+        <path d="M4.348 11.148c.54.6 1.344.996 2.388.996 1.644 0 2.424-1.032 2.424-2.22 0-1.5-1.116-2.04-2.112-2.52-.78-.384-1.488-.732-1.488-1.488 0-.72.552-1.188 1.284-1.188.636 0 1.212.216 1.656.696l.504-.72c-.516-.54-1.248-.84-2.136-.84-1.32 0-2.292.876-2.292 2.1 0 1.404 1.08 1.884 2.04 2.34.816.396 1.572.78 1.572 1.68 0 .684-.456 1.308-1.452 1.308-.78 0-1.452-.396-1.86-.888l-.528.744zm8.414.852h.948V4.848h1.896v-.852h-4.74v.852h1.896V12zm8.624 0h1.08l-1.668-3.348c.792-.144 1.596-.84 1.596-2.268 0-1.464-.912-2.388-2.196-2.388H17.75V12h.96V8.808h1.14L21.386 12zm.012-5.604c0 .912-.492 1.56-1.32 1.56H18.71V4.848h1.368c.828 0 1.32.636 1.32 1.548zM24.844 12h4.116v-.852h-3.156v-2.82h3.072v-.84h-3.072v-2.64h3.156v-.852h-4.116V12zm10.66 0h1.043L34.16 3.996h-1.152L30.62 12h1.032l.504-1.812H35L35.503 12zm-1.92-6.948l1.211 4.296h-2.424l1.212-4.296zM44.048 12h.948V3.996h-1.332l-1.932 5.712-1.908-5.712H38.48V12h.96V5.688L41.54 12h.384l2.124-6.312V12z" fill="#1F375B">
+        </path>
+       </svg>
+       <div class="af ap ah az aj s h i j al l m am o an q ao">
+        <div class="af ap dy az aj s h i j al l m am o an q ao">
+         <div class="af ag ah bb aj s h i j al l m am o an q ao">
+          <span class="aj jk jl jm jn ii s fx ex iy fy ed h i j al l m am o an q ao iz">
+           1ST SET
+          </span>
+          <span class="aj jk jl jm jn ii jo s fx ex iy fy ed ip h i j al l m am o an q ao iz">
+           1ST SET
+          </span>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="af ap ah az aj bo cz cx s gh h i j al l m am o an q ao">
+       <span class="aj je s ff ex fo h i j al l m am o an q ao br">
+        More wagers
+       </span>
+       <svg fill="#1381E0" height="9" style="flex-shrink: 0;" viewbox="0 0 5 9" width="5">
+        <g id="arrow-right_svg__Page-1" stroke="none" stroke-width="1">
+         <path d="M.148.148a.5.5 0 000 .71l3.636 3.637L.148 8.143a.502.502 0 00.709.71l3.995-3.998a.5.5 0 000-.71L.857.149a.5.5 0 00-.71 0z" id="arrow-right_svg__arrow-right">
+         </path>
+        </g>
+       </svg>
+      </div>
+     </div>
+    </a>
+   </div>
+  </div>
+ </li>
+ <li>
+  <div class="hn aj s h i j al l m am o an q ao">
+   <div class="af ag ah ai ct cu aj fn s df hp hq bk h i j al l m am o an q ao">
+    <div class="af ap ah ai aj hy s ca cd ay h i j al l m am o an q ao">
+     <a class="af ag ba ai ct cu aj s hz h i j al l m am o an q ao" href="/tennis/atp-adelaide-2023/sinner-v-edmund-31994396" style="cursor: pointer;" target="_self" title="Sinner v Edmund">
+      <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+       <div class="af ap as ai ct cu aj s h i j al l m am o an q ao">
+        <div class="af ag ba ai ia ct cu aj ic s h i j al l m am o an q ao">
+         <div class="af ap ah az aj s id h i j al l m am o an q ao">
+          <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+           <span class="ae aj ie if ig ih hr hs ht hw ii s ff ec ij h i j al l m am o an q ao br">
+            Jannik Sinner
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="af ap ba az hn aj fz s h i j al l m am o an q ao">
+       <svg aria-label="verse" height="15" id="versusHeadToHead_svg__VS" style="flex-shrink: 0;" viewbox="0 0 13 9" width="15" x="0" xml:space="preserve" y="0">
+        <path d="M6.604.891L3.992 8H2.775L.157.891h1.251L3.37 6.735h.027L5.366.891z" fill="#B9C4CB" id="versusHeadToHead_svg__V">
+        </path>
+        <path d="M7.13 2.853C7.13 1.636 8.203.768 9.741.768c1.559 0 2.598.916 2.646 2.174h-1.135c-.089-.745-.636-1.203-1.511-1.203-.868 0-1.442.431-1.442 1.053 0 .492.362.827 1.155 1.019l1.128.273c1.436.349 1.955.909 1.955 1.928 0 1.237-1.169 2.112-2.755 2.112-1.668 0-2.707-.841-2.844-2.174h1.189c.144.813.69 1.203 1.654 1.203s1.559-.41 1.559-1.053c0-.513-.28-.807-1.094-1.005l-1.127-.274C7.78 4.5 7.13 3.878 7.13 2.853z" fill="#B9C4CB" id="versusHeadToHead_svg__S">
+        </path>
+       </svg>
+       <div class="af ap ah ai ct cu aj fz il s h i j al l m am o an q ao">
+       </div>
+      </div>
+      <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+       <div class="af ap as ai ct cu aj s h i j al l m am o an q ao">
+        <div class="af ag ba ai ia ct cu aj ic s h i j al l m am o an q ao">
+         <div class="af ap ah az aj s id h i j al l m am o an q ao">
+          <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+           <span class="ae aj ie if ig ih hr hs ht hw ii s ff ec ij h i j al l m am o an q ao br">
+            Kyle Edmund
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </a>
+     <div class="af ag ba az aj im s h i j al l m am o an q ao">
+      <div class="af ag ba az ct cu aj cv jc cx s cd gj is bk y h i j al l m am o an q ao" role="button" style="cursor: pointer;" tabindex="0">
+       <span class="in io ff ex ix ja fu">
+        -800
+       </span>
+      </div>
+      <div class="af ag ba az ct cu aj cv jc cx s gj is bk y h i j al l m am o an q ao" role="button" style="cursor: pointer;" tabindex="0">
+       <span class="in io ff ex ix ja fu">
+        +540
+       </span>
+      </div>
+     </div>
+    </div>
+    <a class="af ap ah ai aj s h i j al l m am o an q ao" href="/tennis/atp-adelaide-2023/sinner-v-edmund-31994396" style="cursor: pointer;" target="_self" title="Sinner v Edmund">
+     <div class="af ap as az aj cv bw s aw ax h i j al l m am o an q ao">
+      <div class="af ap ah az aj s h i j al l m am o an q ao">
+       <svg aria-label="[title]" height="16" role="img" style="margin-right: 4px; margin-left: 0px; flex-shrink: 0;" viewbox="0 0 50 17" width="49">
+        <title>
+         live stream
+        </title>
+        <rect fill="#CFD6DB" height="17" rx="2" width="50">
+        </rect>
+        <path d="M4.348 11.148c.54.6 1.344.996 2.388.996 1.644 0 2.424-1.032 2.424-2.22 0-1.5-1.116-2.04-2.112-2.52-.78-.384-1.488-.732-1.488-1.488 0-.72.552-1.188 1.284-1.188.636 0 1.212.216 1.656.696l.504-.72c-.516-.54-1.248-.84-2.136-.84-1.32 0-2.292.876-2.292 2.1 0 1.404 1.08 1.884 2.04 2.34.816.396 1.572.78 1.572 1.68 0 .684-.456 1.308-1.452 1.308-.78 0-1.452-.396-1.86-.888l-.528.744zm8.414.852h.948V4.848h1.896v-.852h-4.74v.852h1.896V12zm8.624 0h1.08l-1.668-3.348c.792-.144 1.596-.84 1.596-2.268 0-1.464-.912-2.388-2.196-2.388H17.75V12h.96V8.808h1.14L21.386 12zm.012-5.604c0 .912-.492 1.56-1.32 1.56H18.71V4.848h1.368c.828 0 1.32.636 1.32 1.548zM24.844 12h4.116v-.852h-3.156v-2.82h3.072v-.84h-3.072v-2.64h3.156v-.852h-4.116V12zm10.66 0h1.043L34.16 3.996h-1.152L30.62 12h1.032l.504-1.812H35L35.503 12zm-1.92-6.948l1.211 4.296h-2.424l1.212-4.296zM44.048 12h.948V3.996h-1.332l-1.932 5.712-1.908-5.712H38.48V12h.96V5.688L41.54 12h.384l2.124-6.312V12z" fill="#1F375B">
+        </path>
+       </svg>
+       <time class="aj jf s fx ex gw iy h i j al l m am o an q ao iz" datetime="2023-01-03T03:30:00.000Z">
+        8:30pm MT
+       </time>
+      </div>
+      <div class="af ap ah az aj bo cz cx s gh h i j al l m am o an q ao">
+       <span class="aj je s ff ex fo h i j al l m am o an q ao br">
+        More wagers
+       </span>
+       <svg fill="#1381E0" height="9" style="flex-shrink: 0;" viewbox="0 0 5 9" width="5">
+        <g id="arrow-right_svg__Page-1" stroke="none" stroke-width="1">
+         <path d="M.148.148a.5.5 0 000 .71l3.636 3.637L.148 8.143a.502.502 0 00.709.71l3.995-3.998a.5.5 0 000-.71L.857.149a.5.5 0 00-.71 0z" id="arrow-right_svg__arrow-right">
+         </path>
+        </g>
+       </svg>
+      </div>
+     </div>
+    </a>
+   </div>
+  </div>
+ </li>
+ <li>
+  <div class="hn aj s h i j al l m am o an q ao">
+   <div class="af ag ah ai ct cu aj fn s df hp hq bk h i j al l m am o an q ao">
+    <div class="af ap ah ai aj hy s ca cd ay h i j al l m am o an q ao">
+     <a class="af ag ba ai ct cu aj s hz h i j al l m am o an q ao" href="/tennis/atp-adelaide-2023/mcdonald-melo-v-kokkinakis-thompson-31994549" style="cursor: pointer;" target="_self" title="Mcdonald/Melo v Kokkinakis/Thompson">
+      <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+       <div class="af ap as ai ct cu aj s h i j al l m am o an q ao">
+        <div class="af ag ba ai ia ct cu aj ic s h i j al l m am o an q ao">
+         <div class="af ap ah az aj s id h i j al l m am o an q ao">
+          <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+           <span class="ae aj ie if ig ih hr hs ht hw ii s ff ec ij h i j al l m am o an q ao br">
+            Mcdonald / Melo
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="af ap ba az hn aj fz s h i j al l m am o an q ao">
+       <svg aria-label="verse" height="15" id="versusHeadToHead_svg__VS" style="flex-shrink: 0;" viewbox="0 0 13 9" width="15" x="0" xml:space="preserve" y="0">
+        <path d="M6.604.891L3.992 8H2.775L.157.891h1.251L3.37 6.735h.027L5.366.891z" fill="#B9C4CB" id="versusHeadToHead_svg__V">
+        </path>
+        <path d="M7.13 2.853C7.13 1.636 8.203.768 9.741.768c1.559 0 2.598.916 2.646 2.174h-1.135c-.089-.745-.636-1.203-1.511-1.203-.868 0-1.442.431-1.442 1.053 0 .492.362.827 1.155 1.019l1.128.273c1.436.349 1.955.909 1.955 1.928 0 1.237-1.169 2.112-2.755 2.112-1.668 0-2.707-.841-2.844-2.174h1.189c.144.813.69 1.203 1.654 1.203s1.559-.41 1.559-1.053c0-.513-.28-.807-1.094-1.005l-1.127-.274C7.78 4.5 7.13 3.878 7.13 2.853z" fill="#B9C4CB" id="versusHeadToHead_svg__S">
+        </path>
+       </svg>
+       <div class="af ap ah ai ct cu aj fz il s h i j al l m am o an q ao">
+       </div>
+      </div>
+      <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+       <div class="af ap as ai ct cu aj s h i j al l m am o an q ao">
+        <div class="af ag ba ai ia ct cu aj ic s h i j al l m am o an q ao">
+         <div class="af ap ah az aj s id h i j al l m am o an q ao">
+          <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+           <span class="ae aj ie if ig ih hr hs ht hw ii s ff ec ij h i j al l m am o an q ao br">
+            Kokkinakis / Thompson
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </a>
+     <div class="af ag ba az aj im s h i j al l m am o an q ao">
+      <div class="af ag ba az ct cu aj cv jc cx s cd gj is bk y h i j al l m am o an q ao" role="button" style="cursor: pointer;" tabindex="0">
+       <span class="in io ff ex ix ja fu">
+        +108
+       </span>
+      </div>
+      <div class="af ag ba az ct cu aj cv jc cx s gj is bk y h i j al l m am o an q ao" role="button" style="cursor: pointer;" tabindex="0">
+       <span class="in io ff ex ix ja fu">
+        -130
+       </span>
+      </div>
+     </div>
+    </div>
+    <a class="af ap ah ai aj s h i j al l m am o an q ao" href="/tennis/atp-adelaide-2023/mcdonald-melo-v-kokkinakis-thompson-31994549" style="cursor: pointer;" target="_self" title="Mcdonald/Melo v Kokkinakis/Thompson">
+     <div class="af ap as az aj cv bw s aw ax h i j al l m am o an q ao">
+      <div class="af ap ah az aj s h i j al l m am o an q ao">
+       <svg aria-label="[title]" height="16" role="img" style="margin-right: 4px; margin-left: 0px; flex-shrink: 0;" viewbox="0 0 50 17" width="49">
+        <title>
+         live stream
+        </title>
+        <rect fill="#CFD6DB" height="17" rx="2" width="50">
+        </rect>
+        <path d="M4.348 11.148c.54.6 1.344.996 2.388.996 1.644 0 2.424-1.032 2.424-2.22 0-1.5-1.116-2.04-2.112-2.52-.78-.384-1.488-.732-1.488-1.488 0-.72.552-1.188 1.284-1.188.636 0 1.212.216 1.656.696l.504-.72c-.516-.54-1.248-.84-2.136-.84-1.32 0-2.292.876-2.292 2.1 0 1.404 1.08 1.884 2.04 2.34.816.396 1.572.78 1.572 1.68 0 .684-.456 1.308-1.452 1.308-.78 0-1.452-.396-1.86-.888l-.528.744zm8.414.852h.948V4.848h1.896v-.852h-4.74v.852h1.896V12zm8.624 0h1.08l-1.668-3.348c.792-.144 1.596-.84 1.596-2.268 0-1.464-.912-2.388-2.196-2.388H17.75V12h.96V8.808h1.14L21.386 12zm.012-5.604c0 .912-.492 1.56-1.32 1.56H18.71V4.848h1.368c.828 0 1.32.636 1.32 1.548zM24.844 12h4.116v-.852h-3.156v-2.82h3.072v-.84h-3.072v-2.64h3.156v-.852h-4.116V12zm10.66 0h1.043L34.16 3.996h-1.152L30.62 12h1.032l.504-1.812H35L35.503 12zm-1.92-6.948l1.211 4.296h-2.424l1.212-4.296zM44.048 12h.948V3.996h-1.332l-1.932 5.712-1.908-5.712H38.48V12h.96V5.688L41.54 12h.384l2.124-6.312V12z" fill="#1F375B">
+        </path>
+       </svg>
+       <time class="aj jf s fx ex gw iy h i j al l m am o an q ao iz" datetime="2023-01-03T04:00:00.000Z">
+        9:00pm MT
+       </time>
+      </div>
+      <div class="af ap ah az aj bo cz cx s gh h i j al l m am o an q ao">
+       <span class="aj je s ff ex fo h i j al l m am o an q ao br">
+        More wagers
+       </span>
+       <svg fill="#1381E0" height="9" style="flex-shrink: 0;" viewbox="0 0 5 9" width="5">
+        <g id="arrow-right_svg__Page-1" stroke="none" stroke-width="1">
+         <path d="M.148.148a.5.5 0 000 .71l3.636 3.637L.148 8.143a.502.502 0 00.709.71l3.995-3.998a.5.5 0 000-.71L.857.149a.5.5 0 00-.71 0z" id="arrow-right_svg__arrow-right">
+         </path>
+        </g>
+       </svg>
+      </div>
+     </div>
+    </a>
+   </div>
+  </div>
+ </li>
+ <li>
+  <div class="hn aj s h i j al l m am o an q ao">
+   <div class="af ag ah ai ct cu aj fn s df hp hq bk h i j al l m am o an q ao">
+    <div class="af ap ah ai aj hy s ca cd ay h i j al l m am o an q ao">
+     <a class="af ag ba ai ct cu aj s hz h i j al l m am o an q ao" href="/tennis/atp-adelaide-2023/millman-winter-v-barrientos-behar-31994544" style="cursor: pointer;" target="_self" title="Millman/Winter v Barrientos/Behar">
+      <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+       <div class="af ap as ai ct cu aj s h i j al l m am o an q ao">
+        <div class="af ag ba ai ia ct cu aj ic s h i j al l m am o an q ao">
+         <div class="af ap ah az aj s id h i j al l m am o an q ao">
+          <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+           <span class="ae aj ie if ig ih hr hs ht hw ii s ff ec ij h i j al l m am o an q ao br">
+            Millman / Winter
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="af ap ba az hn aj fz s h i j al l m am o an q ao">
+       <svg aria-label="verse" height="15" id="versusHeadToHead_svg__VS" style="flex-shrink: 0;" viewbox="0 0 13 9" width="15" x="0" xml:space="preserve" y="0">
+        <path d="M6.604.891L3.992 8H2.775L.157.891h1.251L3.37 6.735h.027L5.366.891z" fill="#B9C4CB" id="versusHeadToHead_svg__V">
+        </path>
+        <path d="M7.13 2.853C7.13 1.636 8.203.768 9.741.768c1.559 0 2.598.916 2.646 2.174h-1.135c-.089-.745-.636-1.203-1.511-1.203-.868 0-1.442.431-1.442 1.053 0 .492.362.827 1.155 1.019l1.128.273c1.436.349 1.955.909 1.955 1.928 0 1.237-1.169 2.112-2.755 2.112-1.668 0-2.707-.841-2.844-2.174h1.189c.144.813.69 1.203 1.654 1.203s1.559-.41 1.559-1.053c0-.513-.28-.807-1.094-1.005l-1.127-.274C7.78 4.5 7.13 3.878 7.13 2.853z" fill="#B9C4CB" id="versusHeadToHead_svg__S">
+        </path>
+       </svg>
+       <div class="af ap ah ai ct cu aj fz il s h i j al l m am o an q ao">
+       </div>
+      </div>
+      <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+       <div class="af ap as ai ct cu aj s h i j al l m am o an q ao">
+        <div class="af ag ba ai ia ct cu aj ic s h i j al l m am o an q ao">
+         <div class="af ap ah az aj s id h i j al l m am o an q ao">
+          <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+           <span class="ae aj ie if ig ih hr hs ht hw ii s ff ec ij h i j al l m am o an q ao br">
+            Barrientos / Behar
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </a>
+     <div class="af ag ba az aj im s h i j al l m am o an q ao">
+      <div class="af ag ba az ct cu aj cv jc cx s cd gj is bk y h i j al l m am o an q ao" role="button" style="cursor: pointer;" tabindex="0">
+       <span class="in io ff ex ix ja fu">
+        +500
+       </span>
+      </div>
+      <div class="af ag ba az ct cu aj cv jc cx s gj is bk y h i j al l m am o an q ao" role="button" style="cursor: pointer;" tabindex="0">
+       <span class="in io ff ex ix ja fu">
+        -750
+       </span>
+      </div>
+     </div>
+    </div>
+    <a class="af ap ah ai aj s h i j al l m am o an q ao" href="/tennis/atp-adelaide-2023/millman-winter-v-barrientos-behar-31994544" style="cursor: pointer;" target="_self" title="Millman/Winter v Barrientos/Behar">
+     <div class="af ap as az aj cv bw s aw ax h i j al l m am o an q ao">
+      <div class="af ap ah az aj s h i j al l m am o an q ao">
+       <svg aria-label="[title]" height="16" role="img" style="margin-right: 4px; margin-left: 0px; flex-shrink: 0;" viewbox="0 0 50 17" width="49">
+        <title>
+         live stream
+        </title>
+        <rect fill="#CFD6DB" height="17" rx="2" width="50">
+        </rect>
+        <path d="M4.348 11.148c.54.6 1.344.996 2.388.996 1.644 0 2.424-1.032 2.424-2.22 0-1.5-1.116-2.04-2.112-2.52-.78-.384-1.488-.732-1.488-1.488 0-.72.552-1.188 1.284-1.188.636 0 1.212.216 1.656.696l.504-.72c-.516-.54-1.248-.84-2.136-.84-1.32 0-2.292.876-2.292 2.1 0 1.404 1.08 1.884 2.04 2.34.816.396 1.572.78 1.572 1.68 0 .684-.456 1.308-1.452 1.308-.78 0-1.452-.396-1.86-.888l-.528.744zm8.414.852h.948V4.848h1.896v-.852h-4.74v.852h1.896V12zm8.624 0h1.08l-1.668-3.348c.792-.144 1.596-.84 1.596-2.268 0-1.464-.912-2.388-2.196-2.388H17.75V12h.96V8.808h1.14L21.386 12zm.012-5.604c0 .912-.492 1.56-1.32 1.56H18.71V4.848h1.368c.828 0 1.32.636 1.32 1.548zM24.844 12h4.116v-.852h-3.156v-2.82h3.072v-.84h-3.072v-2.64h3.156v-.852h-4.116V12zm10.66 0h1.043L34.16 3.996h-1.152L30.62 12h1.032l.504-1.812H35L35.503 12zm-1.92-6.948l1.211 4.296h-2.424l1.212-4.296zM44.048 12h.948V3.996h-1.332l-1.932 5.712-1.908-5.712H38.48V12h.96V5.688L41.54 12h.384l2.124-6.312V12z" fill="#1F375B">
+        </path>
+       </svg>
+       <time class="aj jf s fx ex gw iy h i j al l m am o an q ao iz" datetime="2023-01-03T04:00:00.000Z">
+        9:00pm MT
+       </time>
+      </div>
+      <div class="af ap ah az aj bo cz cx s gh h i j al l m am o an q ao">
+       <span class="aj je s ff ex fo h i j al l m am o an q ao br">
+        More wagers
+       </span>
+       <svg fill="#1381E0" height="9" style="flex-shrink: 0;" viewbox="0 0 5 9" width="5">
+        <g id="arrow-right_svg__Page-1" stroke="none" stroke-width="1">
+         <path d="M.148.148a.5.5 0 000 .71l3.636 3.637L.148 8.143a.502.502 0 00.709.71l3.995-3.998a.5.5 0 000-.71L.857.149a.5.5 0 00-.71 0z" id="arrow-right_svg__arrow-right">
+         </path>
+        </g>
+       </svg>
+      </div>
+     </div>
+    </a>
+   </div>
+  </div>
+ </li>
+ <li>
+  <div class="hn aj s h i j al l m am o an q ao">
+   <div class="af ag ah ai ct cu aj fn s df hp hq bk h i j al l m am o an q ao">
+    <div class="af ap ah ai aj hy s ca cd ay h i j al l m am o an q ao">
+     <a class="af ag ba ai ct cu aj s hz h i j al l m am o an q ao" href="/tennis/atp-adelaide-2023/ri-hijikata-v-shapovalov-31997020" style="cursor: pointer;" target="_self" title="Ri Hijikata v Shapovalov">
+      <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+       <div class="af ap as ai ct cu aj s h i j al l m am o an q ao">
+        <div class="af ag ba ai ia ct cu aj ic s h i j al l m am o an q ao">
+         <div class="af ap ah az aj s id h i j al l m am o an q ao">
+          <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+           <span class="ae aj ie if ig ih hr hs ht hw ii s ff ec ij h i j al l m am o an q ao br">
+            Rinky Hijikata
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="af ap ba az hn aj fz s h i j al l m am o an q ao">
+       <svg aria-label="verse" height="15" id="versusHeadToHead_svg__VS" style="flex-shrink: 0;" viewbox="0 0 13 9" width="15" x="0" xml:space="preserve" y="0">
+        <path d="M6.604.891L3.992 8H2.775L.157.891h1.251L3.37 6.735h.027L5.366.891z" fill="#B9C4CB" id="versusHeadToHead_svg__V">
+        </path>
+        <path d="M7.13 2.853C7.13 1.636 8.203.768 9.741.768c1.559 0 2.598.916 2.646 2.174h-1.135c-.089-.745-.636-1.203-1.511-1.203-.868 0-1.442.431-1.442 1.053 0 .492.362.827 1.155 1.019l1.128.273c1.436.349 1.955.909 1.955 1.928 0 1.237-1.169 2.112-2.755 2.112-1.668 0-2.707-.841-2.844-2.174h1.189c.144.813.69 1.203 1.654 1.203s1.559-.41 1.559-1.053c0-.513-.28-.807-1.094-1.005l-1.127-.274C7.78 4.5 7.13 3.878 7.13 2.853z" fill="#B9C4CB" id="versusHeadToHead_svg__S">
+        </path>
+       </svg>
+       <div class="af ap ah ai ct cu aj fz il s h i j al l m am o an q ao">
+       </div>
+      </div>
+      <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+       <div class="af ap as ai ct cu aj s h i j al l m am o an q ao">
+        <div class="af ag ba ai ia ct cu aj ic s h i j al l m am o an q ao">
+         <div class="af ap ah az aj s id h i j al l m am o an q ao">
+          <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+           <span class="ae aj ie if ig ih hr hs ht hw ii s ff ec ij h i j al l m am o an q ao br">
+            Denis Shapovalov
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </a>
+     <div class="af ag ba az aj im s h i j al l m am o an q ao">
+      <div class="af ag ba az ct cu aj cv jc cx s cd gj is bk y h i j al l m am o an q ao" role="button" style="cursor: pointer;" tabindex="0">
+       <span class="in io ff ex ix ja fu">
+        +310
+       </span>
+      </div>
+      <div class="af ag ba az ct cu aj cv jc cx s gj is bk y h i j al l m am o an q ao" role="button" style="cursor: pointer;" tabindex="0">
+       <span class="in io ff ex ix ja fu">
+        -450
+       </span>
+      </div>
+     </div>
+    </div>
+    <a class="af ap ah ai aj s h i j al l m am o an q ao" href="/tennis/atp-adelaide-2023/ri-hijikata-v-shapovalov-31997020" style="cursor: pointer;" target="_self" title="Ri Hijikata v Shapovalov">
+     <div class="af ap as az aj cv bw s aw ax h i j al l m am o an q ao">
+      <div class="af ap ah az aj s h i j al l m am o an q ao">
+       <svg aria-label="[title]" height="16" role="img" style="margin-right: 4px; margin-left: 0px; flex-shrink: 0;" viewbox="0 0 50 17" width="49">
+        <title>
+         live stream
+        </title>
+        <rect fill="#CFD6DB" height="17" rx="2" width="50">
+        </rect>
+        <path d="M4.348 11.148c.54.6 1.344.996 2.388.996 1.644 0 2.424-1.032 2.424-2.22 0-1.5-1.116-2.04-2.112-2.52-.78-.384-1.488-.732-1.488-1.488 0-.72.552-1.188 1.284-1.188.636 0 1.212.216 1.656.696l.504-.72c-.516-.54-1.248-.84-2.136-.84-1.32 0-2.292.876-2.292 2.1 0 1.404 1.08 1.884 2.04 2.34.816.396 1.572.78 1.572 1.68 0 .684-.456 1.308-1.452 1.308-.78 0-1.452-.396-1.86-.888l-.528.744zm8.414.852h.948V4.848h1.896v-.852h-4.74v.852h1.896V12zm8.624 0h1.08l-1.668-3.348c.792-.144 1.596-.84 1.596-2.268 0-1.464-.912-2.388-2.196-2.388H17.75V12h.96V8.808h1.14L21.386 12zm.012-5.604c0 .912-.492 1.56-1.32 1.56H18.71V4.848h1.368c.828 0 1.32.636 1.32 1.548zM24.844 12h4.116v-.852h-3.156v-2.82h3.072v-.84h-3.072v-2.64h3.156v-.852h-4.116V12zm10.66 0h1.043L34.16 3.996h-1.152L30.62 12h1.032l.504-1.812H35L35.503 12zm-1.92-6.948l1.211 4.296h-2.424l1.212-4.296zM44.048 12h.948V3.996h-1.332l-1.932 5.712-1.908-5.712H38.48V12h.96V5.688L41.54 12h.384l2.124-6.312V12z" fill="#1F375B">
+        </path>
+       </svg>
+       <time class="aj jf s fx ex gw iy h i j al l m am o an q ao iz" datetime="2023-01-03T05:30:00.000Z">
+        10:30pm MT
+       </time>
+      </div>
+      <div class="af ap ah az aj bo cz cx s gh h i j al l m am o an q ao">
+       <span class="aj je s ff ex fo h i j al l m am o an q ao br">
+        More wagers
+       </span>
+       <svg fill="#1381E0" height="9" style="flex-shrink: 0;" viewbox="0 0 5 9" width="5">
+        <g id="arrow-right_svg__Page-1" stroke="none" stroke-width="1">
+         <path d="M.148.148a.5.5 0 000 .71l3.636 3.637L.148 8.143a.502.502 0 00.709.71l3.995-3.998a.5.5 0 000-.71L.857.149a.5.5 0 00-.71 0z" id="arrow-right_svg__arrow-right">
+         </path>
+        </g>
+       </svg>
+      </div>
+     </div>
+    </a>
+   </div>
+  </div>
+ </li>
+ <li>
+  <div class="hn aj s h i j al l m am o an q ao">
+   <div class="af ag ah ai ct cu aj fn s df hp hq bk h i j al l m am o an q ao">
+    <div class="af ap ah ai aj hy s ca cd ay h i j al l m am o an q ao">
+     <a class="af ag ba ai ct cu aj s hz h i j al l m am o an q ao" href="/tennis/atp-adelaide-2023/golubev-nedovyesov-v-cressy-olivetti-31994550" style="cursor: pointer;" target="_self" title="Golubev/Nedovyesov v Cressy/Olivetti">
+      <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+       <div class="af ap as ai ct cu aj s h i j al l m am o an q ao">
+        <div class="af ag ba ai ia ct cu aj ic s h i j al l m am o an q ao">
+         <div class="af ap ah az aj s id h i j al l m am o an q ao">
+          <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+           <span class="ae aj ie if ig ih hr hs ht hw ii s ff ec ij h i j al l m am o an q ao br">
+            Golubev / Nedovyesov
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="af ap ba az hn aj fz s h i j al l m am o an q ao">
+       <svg aria-label="verse" height="15" id="versusHeadToHead_svg__VS" style="flex-shrink: 0;" viewbox="0 0 13 9" width="15" x="0" xml:space="preserve" y="0">
+        <path d="M6.604.891L3.992 8H2.775L.157.891h1.251L3.37 6.735h.027L5.366.891z" fill="#B9C4CB" id="versusHeadToHead_svg__V">
+        </path>
+        <path d="M7.13 2.853C7.13 1.636 8.203.768 9.741.768c1.559 0 2.598.916 2.646 2.174h-1.135c-.089-.745-.636-1.203-1.511-1.203-.868 0-1.442.431-1.442 1.053 0 .492.362.827 1.155 1.019l1.128.273c1.436.349 1.955.909 1.955 1.928 0 1.237-1.169 2.112-2.755 2.112-1.668 0-2.707-.841-2.844-2.174h1.189c.144.813.69 1.203 1.654 1.203s1.559-.41 1.559-1.053c0-.513-.28-.807-1.094-1.005l-1.127-.274C7.78 4.5 7.13 3.878 7.13 2.853z" fill="#B9C4CB" id="versusHeadToHead_svg__S">
+        </path>
+       </svg>
+       <div class="af ap ah ai ct cu aj fz il s h i j al l m am o an q ao">
+       </div>
+      </div>
+      <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+       <div class="af ap as ai ct cu aj s h i j al l m am o an q ao">
+        <div class="af ag ba ai ia ct cu aj ic s h i j al l m am o an q ao">
+         <div class="af ap ah az aj s id h i j al l m am o an q ao">
+          <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+           <span class="ae aj ie if ig ih hr hs ht hw ii s ff ec ij h i j al l m am o an q ao br">
+            Cressy / Olivetti
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </a>
+     <div class="af ag ba az aj im s h i j al l m am o an q ao">
+      <div class="af ag ba az ct cu aj cv jc cx s cd gj is bk y h i j al l m am o an q ao" role="button" style="cursor: pointer;" tabindex="0">
+       <span class="in io ff ex ix ja fu">
+        -114
+       </span>
+      </div>
+      <div class="af ag ba az ct cu aj cv jc cx s gj is bk y h i j al l m am o an q ao" role="button" style="cursor: pointer;" tabindex="0">
+       <span class="in io ff ex ix ja fu">
+        -108
+       </span>
+      </div>
+     </div>
+    </div>
+    <a class="af ap ah ai aj s h i j al l m am o an q ao" href="/tennis/atp-adelaide-2023/golubev-nedovyesov-v-cressy-olivetti-31994550" style="cursor: pointer;" target="_self" title="Golubev/Nedovyesov v Cressy/Olivetti">
+     <div class="af ap as az aj cv bw s aw ax h i j al l m am o an q ao">
+      <div class="af ap ah az aj s h i j al l m am o an q ao">
+       <svg aria-label="[title]" height="16" role="img" style="margin-right: 4px; margin-left: 0px; flex-shrink: 0;" viewbox="0 0 50 17" width="49">
+        <title>
+         live stream
+        </title>
+        <rect fill="#CFD6DB" height="17" rx="2" width="50">
+        </rect>
+        <path d="M4.348 11.148c.54.6 1.344.996 2.388.996 1.644 0 2.424-1.032 2.424-2.22 0-1.5-1.116-2.04-2.112-2.52-.78-.384-1.488-.732-1.488-1.488 0-.72.552-1.188 1.284-1.188.636 0 1.212.216 1.656.696l.504-.72c-.516-.54-1.248-.84-2.136-.84-1.32 0-2.292.876-2.292 2.1 0 1.404 1.08 1.884 2.04 2.34.816.396 1.572.78 1.572 1.68 0 .684-.456 1.308-1.452 1.308-.78 0-1.452-.396-1.86-.888l-.528.744zm8.414.852h.948V4.848h1.896v-.852h-4.74v.852h1.896V12zm8.624 0h1.08l-1.668-3.348c.792-.144 1.596-.84 1.596-2.268 0-1.464-.912-2.388-2.196-2.388H17.75V12h.96V8.808h1.14L21.386 12zm.012-5.604c0 .912-.492 1.56-1.32 1.56H18.71V4.848h1.368c.828 0 1.32.636 1.32 1.548zM24.844 12h4.116v-.852h-3.156v-2.82h3.072v-.84h-3.072v-2.64h3.156v-.852h-4.116V12zm10.66 0h1.043L34.16 3.996h-1.152L30.62 12h1.032l.504-1.812H35L35.503 12zm-1.92-6.948l1.211 4.296h-2.424l1.212-4.296zM44.048 12h.948V3.996h-1.332l-1.932 5.712-1.908-5.712H38.48V12h.96V5.688L41.54 12h.384l2.124-6.312V12z" fill="#1F375B">
+        </path>
+       </svg>
+       <time class="aj jf s fx ex gw iy h i j al l m am o an q ao iz" datetime="2023-01-03T06:00:00.000Z">
+        11:00pm MT
+       </time>
+      </div>
+      <div class="af ap ah az aj bo cz cx s gh h i j al l m am o an q ao">
+       <span class="aj je s ff ex fo h i j al l m am o an q ao br">
+        More wagers
+       </span>
+       <svg fill="#1381E0" height="9" style="flex-shrink: 0;" viewbox="0 0 5 9" width="5">
+        <g id="arrow-right_svg__Page-1" stroke="none" stroke-width="1">
+         <path d="M.148.148a.5.5 0 000 .71l3.636 3.637L.148 8.143a.502.502 0 00.709.71l3.995-3.998a.5.5 0 000-.71L.857.149a.5.5 0 00-.71 0z" id="arrow-right_svg__arrow-right">
+         </path>
+        </g>
+       </svg>
+      </div>
+     </div>
+    </a>
+   </div>
+  </div>
+ </li>
+ <li>
+  <div class="hn aj s h i j al l m am o an q ao">
+   <div class="af ag ah ai ct cu aj fn s df hp hq bk h i j al l m am o an q ao">
+    <div class="af ap ah ai aj hy s ca cd ay h i j al l m am o an q ao">
+     <a class="af ag ba ai ct cu aj s hz h i j al l m am o an q ao" href="/tennis/atp-adelaide-2023/duckworth-popyrin-v-sinner-sonego-31994551" style="cursor: pointer;" target="_self" title="Duckworth/Popyrin v Sinner/Sonego">
+      <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+       <div class="af ap as ai ct cu aj s h i j al l m am o an q ao">
+        <div class="af ag ba ai ia ct cu aj ic s h i j al l m am o an q ao">
+         <div class="af ap ah az aj s id h i j al l m am o an q ao">
+          <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+           <span class="ae aj ie if ig ih hr hs ht hw ii s ff ec ij h i j al l m am o an q ao br">
+            Duckworth / Popyrin
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="af ap ba az hn aj fz s h i j al l m am o an q ao">
+       <svg aria-label="verse" height="15" id="versusHeadToHead_svg__VS" style="flex-shrink: 0;" viewbox="0 0 13 9" width="15" x="0" xml:space="preserve" y="0">
+        <path d="M6.604.891L3.992 8H2.775L.157.891h1.251L3.37 6.735h.027L5.366.891z" fill="#B9C4CB" id="versusHeadToHead_svg__V">
+        </path>
+        <path d="M7.13 2.853C7.13 1.636 8.203.768 9.741.768c1.559 0 2.598.916 2.646 2.174h-1.135c-.089-.745-.636-1.203-1.511-1.203-.868 0-1.442.431-1.442 1.053 0 .492.362.827 1.155 1.019l1.128.273c1.436.349 1.955.909 1.955 1.928 0 1.237-1.169 2.112-2.755 2.112-1.668 0-2.707-.841-2.844-2.174h1.189c.144.813.69 1.203 1.654 1.203s1.559-.41 1.559-1.053c0-.513-.28-.807-1.094-1.005l-1.127-.274C7.78 4.5 7.13 3.878 7.13 2.853z" fill="#B9C4CB" id="versusHeadToHead_svg__S">
+        </path>
+       </svg>
+       <div class="af ap ah ai ct cu aj fz il s h i j al l m am o an q ao">
+       </div>
+      </div>
+      <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+       <div class="af ap as ai ct cu aj s h i j al l m am o an q ao">
+        <div class="af ag ba ai ia ct cu aj ic s h i j al l m am o an q ao">
+         <div class="af ap ah az aj s id h i j al l m am o an q ao">
+          <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+           <span class="ae aj ie if ig ih hr hs ht hw ii s ff ec ij h i j al l m am o an q ao br">
+            Sinner / Sonego
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </a>
+     <div class="af ag ba az aj im s h i j al l m am o an q ao">
+      <div class="af ag ba az ct cu aj cv jc cx s cd gj is bk y h i j al l m am o an q ao" role="button" style="cursor: pointer;" tabindex="0">
+       <span class="in io ff ex ix ja fu">
+        +160
+       </span>
+      </div>
+      <div class="af ag ba az ct cu aj cv jc cx s gj is bk y h i j al l m am o an q ao" role="button" style="cursor: pointer;" tabindex="0">
+       <span class="in io ff ex ix ja fu">
+        -198
+       </span>
+      </div>
+     </div>
+    </div>
+    <a class="af ap ah ai aj s h i j al l m am o an q ao" href="/tennis/atp-adelaide-2023/duckworth-popyrin-v-sinner-sonego-31994551" style="cursor: pointer;" target="_self" title="Duckworth/Popyrin v Sinner/Sonego">
+     <div class="af ap as az aj cv bw s aw ax h i j al l m am o an q ao">
+      <div class="af ap ah az aj s h i j al l m am o an q ao">
+       <svg aria-label="[title]" height="16" role="img" style="margin-right: 4px; margin-left: 0px; flex-shrink: 0;" viewbox="0 0 50 17" width="49">
+        <title>
+         live stream
+        </title>
+        <rect fill="#CFD6DB" height="17" rx="2" width="50">
+        </rect>
+        <path d="M4.348 11.148c.54.6 1.344.996 2.388.996 1.644 0 2.424-1.032 2.424-2.22 0-1.5-1.116-2.04-2.112-2.52-.78-.384-1.488-.732-1.488-1.488 0-.72.552-1.188 1.284-1.188.636 0 1.212.216 1.656.696l.504-.72c-.516-.54-1.248-.84-2.136-.84-1.32 0-2.292.876-2.292 2.1 0 1.404 1.08 1.884 2.04 2.34.816.396 1.572.78 1.572 1.68 0 .684-.456 1.308-1.452 1.308-.78 0-1.452-.396-1.86-.888l-.528.744zm8.414.852h.948V4.848h1.896v-.852h-4.74v.852h1.896V12zm8.624 0h1.08l-1.668-3.348c.792-.144 1.596-.84 1.596-2.268 0-1.464-.912-2.388-2.196-2.388H17.75V12h.96V8.808h1.14L21.386 12zm.012-5.604c0 .912-.492 1.56-1.32 1.56H18.71V4.848h1.368c.828 0 1.32.636 1.32 1.548zM24.844 12h4.116v-.852h-3.156v-2.82h3.072v-.84h-3.072v-2.64h3.156v-.852h-4.116V12zm10.66 0h1.043L34.16 3.996h-1.152L30.62 12h1.032l.504-1.812H35L35.503 12zm-1.92-6.948l1.211 4.296h-2.424l1.212-4.296zM44.048 12h.948V3.996h-1.332l-1.932 5.712-1.908-5.712H38.48V12h.96V5.688L41.54 12h.384l2.124-6.312V12z" fill="#1F375B">
+        </path>
+       </svg>
+       <time class="aj jf s fx ex gw iy h i j al l m am o an q ao iz" datetime="2023-01-03T06:00:00.000Z">
+        11:00pm MT
+       </time>
+      </div>
+      <div class="af ap ah az aj bo cz cx s gh h i j al l m am o an q ao">
+       <span class="aj je s ff ex fo h i j al l m am o an q ao br">
+        More wagers
+       </span>
+       <svg fill="#1381E0" height="9" style="flex-shrink: 0;" viewbox="0 0 5 9" width="5">
+        <g id="arrow-right_svg__Page-1" stroke="none" stroke-width="1">
+         <path d="M.148.148a.5.5 0 000 .71l3.636 3.637L.148 8.143a.502.502 0 00.709.71l3.995-3.998a.5.5 0 000-.71L.857.149a.5.5 0 00-.71 0z" id="arrow-right_svg__arrow-right">
+         </path>
+        </g>
+       </svg>
+      </div>
+     </div>
+    </a>
+   </div>
+  </div>
+ </li>
+ <li>
+  <div class="hn aj s h i j al l m am o an q ao">
+   <div class="af ag ah ai ct cu aj fn s df hp hq bk h i j al l m am o an q ao">
+    <div class="af ap ah ai aj hy s ca cd ay h i j al l m am o an q ao">
+     <a class="af ag ba ai ct cu aj s hz h i j al l m am o an q ao" href="/tennis/atp-adelaide-2023/murray-v-se-korda-31994416" style="cursor: pointer;" target="_self" title="Murray v Se Korda">
+      <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+       <div class="af ap as ai ct cu aj s h i j al l m am o an q ao">
+        <div class="af ag ba ai ia ct cu aj ic s h i j al l m am o an q ao">
+         <div class="af ap ah az aj s id h i j al l m am o an q ao">
+          <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+           <span class="ae aj ie if ig ih hr hs ht hw ii s ff ec ij h i j al l m am o an q ao br">
+            Andy Murray
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="af ap ba az hn aj fz s h i j al l m am o an q ao">
+       <svg aria-label="verse" height="15" id="versusHeadToHead_svg__VS" style="flex-shrink: 0;" viewbox="0 0 13 9" width="15" x="0" xml:space="preserve" y="0">
+        <path d="M6.604.891L3.992 8H2.775L.157.891h1.251L3.37 6.735h.027L5.366.891z" fill="#B9C4CB" id="versusHeadToHead_svg__V">
+        </path>
+        <path d="M7.13 2.853C7.13 1.636 8.203.768 9.741.768c1.559 0 2.598.916 2.646 2.174h-1.135c-.089-.745-.636-1.203-1.511-1.203-.868 0-1.442.431-1.442 1.053 0 .492.362.827 1.155 1.019l1.128.273c1.436.349 1.955.909 1.955 1.928 0 1.237-1.169 2.112-2.755 2.112-1.668 0-2.707-.841-2.844-2.174h1.189c.144.813.69 1.203 1.654 1.203s1.559-.41 1.559-1.053c0-.513-.28-.807-1.094-1.005l-1.127-.274C7.78 4.5 7.13 3.878 7.13 2.853z" fill="#B9C4CB" id="versusHeadToHead_svg__S">
+        </path>
+       </svg>
+       <div class="af ap ah ai ct cu aj fz il s h i j al l m am o an q ao">
+       </div>
+      </div>
+      <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+       <div class="af ap as ai ct cu aj s h i j al l m am o an q ao">
+        <div class="af ag ba ai ia ct cu aj ic s h i j al l m am o an q ao">
+         <div class="af ap ah az aj s id h i j al l m am o an q ao">
+          <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+           <span class="ae aj ie if ig ih hr hs ht hw ii s ff ec ij h i j al l m am o an q ao br">
+            Sebastian Korda
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </a>
+     <div class="af ag ba az aj im s h i j al l m am o an q ao">
+      <div class="af ag ba az ct cu aj cv jc cx s cd gj is bk y h i j al l m am o an q ao" role="button" style="cursor: pointer;" tabindex="0">
+       <span class="in io ff ex ix ja fu">
+        +136
+       </span>
+      </div>
+      <div class="af ag ba az ct cu aj cv jc cx s gj is bk y h i j al l m am o an q ao" role="button" style="cursor: pointer;" tabindex="0">
+       <span class="in io ff ex ix ja fu">
+        -182
+       </span>
+      </div>
+     </div>
+    </div>
+    <a class="af ap ah ai aj s h i j al l m am o an q ao" href="/tennis/atp-adelaide-2023/murray-v-se-korda-31994416" style="cursor: pointer;" target="_self" title="Murray v Se Korda">
+     <div class="af ap as az aj cv bw s aw ax h i j al l m am o an q ao">
+      <div class="af ap ah az aj s h i j al l m am o an q ao">
+       <svg aria-label="[title]" height="16" role="img" style="margin-right: 4px; margin-left: 0px; flex-shrink: 0;" viewbox="0 0 50 17" width="49">
+        <title>
+         live stream
+        </title>
+        <rect fill="#CFD6DB" height="17" rx="2" width="50">
+        </rect>
+        <path d="M4.348 11.148c.54.6 1.344.996 2.388.996 1.644 0 2.424-1.032 2.424-2.22 0-1.5-1.116-2.04-2.112-2.52-.78-.384-1.488-.732-1.488-1.488 0-.72.552-1.188 1.284-1.188.636 0 1.212.216 1.656.696l.504-.72c-.516-.54-1.248-.84-2.136-.84-1.32 0-2.292.876-2.292 2.1 0 1.404 1.08 1.884 2.04 2.34.816.396 1.572.78 1.572 1.68 0 .684-.456 1.308-1.452 1.308-.78 0-1.452-.396-1.86-.888l-.528.744zm8.414.852h.948V4.848h1.896v-.852h-4.74v.852h1.896V12zm8.624 0h1.08l-1.668-3.348c.792-.144 1.596-.84 1.596-2.268 0-1.464-.912-2.388-2.196-2.388H17.75V12h.96V8.808h1.14L21.386 12zm.012-5.604c0 .912-.492 1.56-1.32 1.56H18.71V4.848h1.368c.828 0 1.32.636 1.32 1.548zM24.844 12h4.116v-.852h-3.156v-2.82h3.072v-.84h-3.072v-2.64h3.156v-.852h-4.116V12zm10.66 0h1.043L34.16 3.996h-1.152L30.62 12h1.032l.504-1.812H35L35.503 12zm-1.92-6.948l1.211 4.296h-2.424l1.212-4.296zM44.048 12h.948V3.996h-1.332l-1.932 5.712-1.908-5.712H38.48V12h.96V5.688L41.54 12h.384l2.124-6.312V12z" fill="#1F375B">
+        </path>
+       </svg>
+       <time class="aj jf s fx ex gw iy h i j al l m am o an q ao iz" datetime="2023-01-03T07:30:00.000Z">
+        Tue 12:30am MT
+       </time>
+      </div>
+      <div class="af ap ah az aj bo cz cx s gh h i j al l m am o an q ao">
+       <span class="aj je s ff ex fo h i j al l m am o an q ao br">
+        More wagers
+       </span>
+       <svg fill="#1381E0" height="9" style="flex-shrink: 0;" viewbox="0 0 5 9" width="5">
+        <g id="arrow-right_svg__Page-1" stroke="none" stroke-width="1">
+         <path d="M.148.148a.5.5 0 000 .71l3.636 3.637L.148 8.143a.502.502 0 00.709.71l3.995-3.998a.5.5 0 000-.71L.857.149a.5.5 0 00-.71 0z" id="arrow-right_svg__arrow-right">
+         </path>
+        </g>
+       </svg>
+      </div>
+     </div>
+    </a>
+   </div>
+  </div>
+ </li>
+ <li>
+  <div class="hn aj s h i j al l m am o an q ao">
+   <div class="af ag ah ai ct cu aj fn s df hp hq bk h i j al l m am o an q ao">
+    <div class="af ap ah ai aj hy s ca cd ay h i j al l m am o an q ao">
+     <a class="af ag ba ai ct cu aj s hz h i j al l m am o an q ao" href="/tennis/atp-adelaide-2023/bautista-agut-v-rublev-31994421" style="cursor: pointer;" target="_self" title="Bautista Agut v Rublev">
+      <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+       <div class="af ap as ai ct cu aj s h i j al l m am o an q ao">
+        <div class="af ag ba ai ia ct cu aj ic s h i j al l m am o an q ao">
+         <div class="af ap ah az aj s id h i j al l m am o an q ao">
+          <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+           <span class="ae aj ie if ig ih hr hs ht hw ii s ff ec ij h i j al l m am o an q ao br">
+            Roberto Bautista Agut
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="af ap ba az hn aj fz s h i j al l m am o an q ao">
+       <svg aria-label="verse" height="15" id="versusHeadToHead_svg__VS" style="flex-shrink: 0;" viewbox="0 0 13 9" width="15" x="0" xml:space="preserve" y="0">
+        <path d="M6.604.891L3.992 8H2.775L.157.891h1.251L3.37 6.735h.027L5.366.891z" fill="#B9C4CB" id="versusHeadToHead_svg__V">
+        </path>
+        <path d="M7.13 2.853C7.13 1.636 8.203.768 9.741.768c1.559 0 2.598.916 2.646 2.174h-1.135c-.089-.745-.636-1.203-1.511-1.203-.868 0-1.442.431-1.442 1.053 0 .492.362.827 1.155 1.019l1.128.273c1.436.349 1.955.909 1.955 1.928 0 1.237-1.169 2.112-2.755 2.112-1.668 0-2.707-.841-2.844-2.174h1.189c.144.813.69 1.203 1.654 1.203s1.559-.41 1.559-1.053c0-.513-.28-.807-1.094-1.005l-1.127-.274C7.78 4.5 7.13 3.878 7.13 2.853z" fill="#B9C4CB" id="versusHeadToHead_svg__S">
+        </path>
+       </svg>
+       <div class="af ap ah ai ct cu aj fz il s h i j al l m am o an q ao">
+       </div>
+      </div>
+      <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+       <div class="af ap as ai ct cu aj s h i j al l m am o an q ao">
+        <div class="af ag ba ai ia ct cu aj ic s h i j al l m am o an q ao">
+         <div class="af ap ah az aj s id h i j al l m am o an q ao">
+          <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+           <span class="ae aj ie if ig ih hr hs ht hw ii s ff ec ij h i j al l m am o an q ao br">
+            Andrey Rublev
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </a>
+     <div class="af ag ba az aj im s h i j al l m am o an q ao">
+      <div class="af ag ba az ct cu aj cv jc cx s cd gj is bk y h i j al l m am o an q ao" role="button" style="cursor: pointer;" tabindex="0">
+       <span class="in io ff ex ix ja fu">
+        +176
+       </span>
+      </div>
+      <div class="af ag ba az ct cu aj cv jc cx s gj is bk y h i j al l m am o an q ao" role="button" style="cursor: pointer;" tabindex="0">
+       <span class="in io ff ex ix ja fu">
+        -215
+       </span>
+      </div>
+     </div>
+    </div>
+    <a class="af ap ah ai aj s h i j al l m am o an q ao" href="/tennis/atp-adelaide-2023/bautista-agut-v-rublev-31994421" style="cursor: pointer;" target="_self" title="Bautista Agut v Rublev">
+     <div class="af ap as az aj cv bw s aw ax h i j al l m am o an q ao">
+      <div class="af ap ah az aj s h i j al l m am o an q ao">
+       <svg aria-label="[title]" height="16" role="img" style="margin-right: 4px; margin-left: 0px; flex-shrink: 0;" viewbox="0 0 50 17" width="49">
+        <title>
+         live stream
+        </title>
+        <rect fill="#CFD6DB" height="17" rx="2" width="50">
+        </rect>
+        <path d="M4.348 11.148c.54.6 1.344.996 2.388.996 1.644 0 2.424-1.032 2.424-2.22 0-1.5-1.116-2.04-2.112-2.52-.78-.384-1.488-.732-1.488-1.488 0-.72.552-1.188 1.284-1.188.636 0 1.212.216 1.656.696l.504-.72c-.516-.54-1.248-.84-2.136-.84-1.32 0-2.292.876-2.292 2.1 0 1.404 1.08 1.884 2.04 2.34.816.396 1.572.78 1.572 1.68 0 .684-.456 1.308-1.452 1.308-.78 0-1.452-.396-1.86-.888l-.528.744zm8.414.852h.948V4.848h1.896v-.852h-4.74v.852h1.896V12zm8.624 0h1.08l-1.668-3.348c.792-.144 1.596-.84 1.596-2.268 0-1.464-.912-2.388-2.196-2.388H17.75V12h.96V8.808h1.14L21.386 12zm.012-5.604c0 .912-.492 1.56-1.32 1.56H18.71V4.848h1.368c.828 0 1.32.636 1.32 1.548zM24.844 12h4.116v-.852h-3.156v-2.82h3.072v-.84h-3.072v-2.64h3.156v-.852h-4.116V12zm10.66 0h1.043L34.16 3.996h-1.152L30.62 12h1.032l.504-1.812H35L35.503 12zm-1.92-6.948l1.211 4.296h-2.424l1.212-4.296zM44.048 12h.948V3.996h-1.332l-1.932 5.712-1.908-5.712H38.48V12h.96V5.688L41.54 12h.384l2.124-6.312V12z" fill="#1F375B">
+        </path>
+       </svg>
+       <time class="aj jf s fx ex gw iy h i j al l m am o an q ao iz" datetime="2023-01-03T08:00:00.000Z">
+        Tue 1:00am MT
+       </time>
+      </div>
+      <div class="af ap ah az aj bo cz cx s gh h i j al l m am o an q ao">
+       <span class="aj je s ff ex fo h i j al l m am o an q ao br">
+        More wagers
+       </span>
+       <svg fill="#1381E0" height="9" style="flex-shrink: 0;" viewbox="0 0 5 9" width="5">
+        <g id="arrow-right_svg__Page-1" stroke="none" stroke-width="1">
+         <path d="M.148.148a.5.5 0 000 .71l3.636 3.637L.148 8.143a.502.502 0 00.709.71l3.995-3.998a.5.5 0 000-.71L.857.149a.5.5 0 00-.71 0z" id="arrow-right_svg__arrow-right">
+         </path>
+        </g>
+       </svg>
+      </div>
+     </div>
+    </a>
+   </div>
+  </div>
+ </li>
+ <li>
+  <div class="hn aj s h i j al l m am o an q ao">
+   <div class="af ag ah ai ct cu aj fn s df hp hq bk h i j al l m am o an q ao">
+    <div class="af ap ah ai aj hy s ca cd ay h i j al l m am o an q ao">
+     <a class="af ag ba ai ct cu aj s hz h i j al l m am o an q ao" href="/tennis/atp-adelaide-2023/erler-miedler-v-halys-lestienne-31998089" style="cursor: pointer;" target="_self" title="Erler/Miedler v Halys/Lestienne">
+      <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+       <div class="af ap as ai ct cu aj s h i j al l m am o an q ao">
+        <div class="af ag ba ai ia ct cu aj ic s h i j al l m am o an q ao">
+         <div class="af ap ah az aj s id h i j al l m am o an q ao">
+          <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+           <span class="ae aj ie if ig ih hr hs ht hw ii s ff ec ij h i j al l m am o an q ao br">
+            Erler / Miedler
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="af ap ba az hn aj fz s h i j al l m am o an q ao">
+       <svg aria-label="verse" height="15" id="versusHeadToHead_svg__VS" style="flex-shrink: 0;" viewbox="0 0 13 9" width="15" x="0" xml:space="preserve" y="0">
+        <path d="M6.604.891L3.992 8H2.775L.157.891h1.251L3.37 6.735h.027L5.366.891z" fill="#B9C4CB" id="versusHeadToHead_svg__V">
+        </path>
+        <path d="M7.13 2.853C7.13 1.636 8.203.768 9.741.768c1.559 0 2.598.916 2.646 2.174h-1.135c-.089-.745-.636-1.203-1.511-1.203-.868 0-1.442.431-1.442 1.053 0 .492.362.827 1.155 1.019l1.128.273c1.436.349 1.955.909 1.955 1.928 0 1.237-1.169 2.112-2.755 2.112-1.668 0-2.707-.841-2.844-2.174h1.189c.144.813.69 1.203 1.654 1.203s1.559-.41 1.559-1.053c0-.513-.28-.807-1.094-1.005l-1.127-.274C7.78 4.5 7.13 3.878 7.13 2.853z" fill="#B9C4CB" id="versusHeadToHead_svg__S">
+        </path>
+       </svg>
+       <div class="af ap ah ai ct cu aj fz il s h i j al l m am o an q ao">
+       </div>
+      </div>
+      <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+       <div class="af ap as ai ct cu aj s h i j al l m am o an q ao">
+        <div class="af ag ba ai ia ct cu aj ic s h i j al l m am o an q ao">
+         <div class="af ap ah az aj s id h i j al l m am o an q ao">
+          <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+           <span class="ae aj ie if ig ih hr hs ht hw ii s ff ec ij h i j al l m am o an q ao br">
+            Halys / Lestienne
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </a>
+     <div class="af ag ba az aj im s h i j al l m am o an q ao">
+      <div class="af ag ba az ct cu aj cv jc cx s cd gj is bk y h i j al l m am o an q ao" role="button" style="cursor: pointer;" tabindex="0">
+       <span class="in io ff ex ix ja fu">
+        -235
+       </span>
+      </div>
+      <div class="af ag ba az ct cu aj cv jc cx s gj is bk y h i j al l m am o an q ao" role="button" style="cursor: pointer;" tabindex="0">
+       <span class="in io ff ex ix ja fu">
+        +172
+       </span>
+      </div>
+     </div>
+    </div>
+    <a class="af ap ah ai aj s h i j al l m am o an q ao" href="/tennis/atp-adelaide-2023/erler-miedler-v-halys-lestienne-31998089" style="cursor: pointer;" target="_self" title="Erler/Miedler v Halys/Lestienne">
+     <div class="af ap as az aj cv bw s aw ax h i j al l m am o an q ao">
+      <div class="af ap ah az aj s h i j al l m am o an q ao">
+       <svg aria-label="[title]" height="16" role="img" style="margin-right: 4px; margin-left: 0px; flex-shrink: 0;" viewbox="0 0 50 17" width="49">
+        <title>
+         live stream
+        </title>
+        <rect fill="#CFD6DB" height="17" rx="2" width="50">
+        </rect>
+        <path d="M4.348 11.148c.54.6 1.344.996 2.388.996 1.644 0 2.424-1.032 2.424-2.22 0-1.5-1.116-2.04-2.112-2.52-.78-.384-1.488-.732-1.488-1.488 0-.72.552-1.188 1.284-1.188.636 0 1.212.216 1.656.696l.504-.72c-.516-.54-1.248-.84-2.136-.84-1.32 0-2.292.876-2.292 2.1 0 1.404 1.08 1.884 2.04 2.34.816.396 1.572.78 1.572 1.68 0 .684-.456 1.308-1.452 1.308-.78 0-1.452-.396-1.86-.888l-.528.744zm8.414.852h.948V4.848h1.896v-.852h-4.74v.852h1.896V12zm8.624 0h1.08l-1.668-3.348c.792-.144 1.596-.84 1.596-2.268 0-1.464-.912-2.388-2.196-2.388H17.75V12h.96V8.808h1.14L21.386 12zm.012-5.604c0 .912-.492 1.56-1.32 1.56H18.71V4.848h1.368c.828 0 1.32.636 1.32 1.548zM24.844 12h4.116v-.852h-3.156v-2.82h3.072v-.84h-3.072v-2.64h3.156v-.852h-4.116V12zm10.66 0h1.043L34.16 3.996h-1.152L30.62 12h1.032l.504-1.812H35L35.503 12zm-1.92-6.948l1.211 4.296h-2.424l1.212-4.296zM44.048 12h.948V3.996h-1.332l-1.932 5.712-1.908-5.712H38.48V12h.96V5.688L41.54 12h.384l2.124-6.312V12z" fill="#1F375B">
+        </path>
+       </svg>
+       <time class="aj jf s fx ex gw iy h i j al l m am o an q ao iz" datetime="2023-01-03T08:00:00.000Z">
+        Tue 1:00am MT
+       </time>
+      </div>
+      <div class="af ap ah az aj bo cz cx s gh h i j al l m am o an q ao">
+       <span class="aj je s ff ex fo h i j al l m am o an q ao br">
+        More wagers
+       </span>
+       <svg fill="#1381E0" height="9" style="flex-shrink: 0;" viewbox="0 0 5 9" width="5">
+        <g id="arrow-right_svg__Page-1" stroke="none" stroke-width="1">
+         <path d="M.148.148a.5.5 0 000 .71l3.636 3.637L.148 8.143a.502.502 0 00.709.71l3.995-3.998a.5.5 0 000-.71L.857.149a.5.5 0 00-.71 0z" id="arrow-right_svg__arrow-right">
+         </path>
+        </g>
+       </svg>
+      </div>
+     </div>
+    </a>
+   </div>
+  </div>
+ </li>
+ <li>
+  <div class="hn aj s h i j al l m am o an q ao">
+   <div class="af ag ah ai ct cu aj fn s df hp hq bk h i j al l m am o an q ao">
+    <div class="af ap ah ai aj hy s ca cd ay h i j al l m am o an q ao">
+     <a class="af ag ba ai ct cu aj s hz h i j al l m am o an q ao" href="/tennis/atp-adelaide-2023/cabal-farah-v-korda-shapovalov-31998615" style="cursor: pointer;" target="_self" title="Cabal/Farah v Korda/Shapovalov">
+      <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+       <div class="af ap as ai ct cu aj s h i j al l m am o an q ao">
+        <div class="af ag ba ai ia ct cu aj ic s h i j al l m am o an q ao">
+         <div class="af ap ah az aj s id h i j al l m am o an q ao">
+          <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+           <span class="ae aj ie if ig ih hr hs ht hw ii s ff ec ij h i j al l m am o an q ao br">
+            Cabal / Farah
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="af ap ba az hn aj fz s h i j al l m am o an q ao">
+       <svg aria-label="verse" height="15" id="versusHeadToHead_svg__VS" style="flex-shrink: 0;" viewbox="0 0 13 9" width="15" x="0" xml:space="preserve" y="0">
+        <path d="M6.604.891L3.992 8H2.775L.157.891h1.251L3.37 6.735h.027L5.366.891z" fill="#B9C4CB" id="versusHeadToHead_svg__V">
+        </path>
+        <path d="M7.13 2.853C7.13 1.636 8.203.768 9.741.768c1.559 0 2.598.916 2.646 2.174h-1.135c-.089-.745-.636-1.203-1.511-1.203-.868 0-1.442.431-1.442 1.053 0 .492.362.827 1.155 1.019l1.128.273c1.436.349 1.955.909 1.955 1.928 0 1.237-1.169 2.112-2.755 2.112-1.668 0-2.707-.841-2.844-2.174h1.189c.144.813.69 1.203 1.654 1.203s1.559-.41 1.559-1.053c0-.513-.28-.807-1.094-1.005l-1.127-.274C7.78 4.5 7.13 3.878 7.13 2.853z" fill="#B9C4CB" id="versusHeadToHead_svg__S">
+        </path>
+       </svg>
+       <div class="af ap ah ai ct cu aj fz il s h i j al l m am o an q ao">
+       </div>
+      </div>
+      <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+       <div class="af ap as ai ct cu aj s h i j al l m am o an q ao">
+        <div class="af ag ba ai ia ct cu aj ic s h i j al l m am o an q ao">
+         <div class="af ap ah az aj s id h i j al l m am o an q ao">
+          <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+           <span class="ae aj ie if ig ih hr hs ht hw ii s ff ec ij h i j al l m am o an q ao br">
+            Korda / Shapovalov
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </a>
+     <div class="af ag ba az aj im s h i j al l m am o an q ao">
+      <div class="af ag ba az ct cu aj cv jc cx s cd gj is bk y h i j al l m am o an q ao" role="button" style="cursor: pointer;" tabindex="0">
+       <span class="in io ff ex ix ja fu">
+        -156
+       </span>
+      </div>
+      <div class="af ag ba az ct cu aj cv jc cx s gj is bk y h i j al l m am o an q ao" role="button" style="cursor: pointer;" tabindex="0">
+       <span class="in io ff ex ix ja fu">
+        +128
+       </span>
+      </div>
+     </div>
+    </div>
+    <a class="af ap ah ai aj s h i j al l m am o an q ao" href="/tennis/atp-adelaide-2023/cabal-farah-v-korda-shapovalov-31998615" style="cursor: pointer;" target="_self" title="Cabal/Farah v Korda/Shapovalov">
+     <div class="af ap as az aj cv bw s aw ax h i j al l m am o an q ao">
+      <div class="af ap ah az aj s h i j al l m am o an q ao">
+       <time class="aj jf s fx ex gw iy h i j al l m am o an q ao iz" datetime="2023-01-04T00:00:00.000Z">
+        Tue 5:00pm MT
+       </time>
+      </div>
+      <div class="af ap ah az aj bo cz cx s gh h i j al l m am o an q ao">
+       <span class="aj je s ff ex fo h i j al l m am o an q ao br">
+        More wagers
+       </span>
+       <svg fill="#1381E0" height="9" style="flex-shrink: 0;" viewbox="0 0 5 9" width="5">
+        <g id="arrow-right_svg__Page-1" stroke="none" stroke-width="1">
+         <path d="M.148.148a.5.5 0 000 .71l3.636 3.637L.148 8.143a.502.502 0 00.709.71l3.995-3.998a.5.5 0 000-.71L.857.149a.5.5 0 00-.71 0z" id="arrow-right_svg__arrow-right">
+         </path>
+        </g>
+       </svg>
+      </div>
+     </div>
+    </a>
+   </div>
+  </div>
+ </li>
+ <li>
+  <div class="hn aj s h i j al l m am o an q ao">
+   <div class="af ag ah ai ct cu aj fn s df hp hq bk h i j al l m am o an q ao">
+    <div class="af ap ah ai aj hy s ca cd ay h i j al l m am o an q ao">
+     <a class="af ag ba ai ct cu aj s hz h i j al l m am o an q ao" href="/tennis/atp-adelaide-2023/brkic-escobar-v-arevalo-rojer-31998248" style="cursor: pointer;" target="_self" title="Brkic/Escobar v Arevalo/Rojer">
+      <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+       <div class="af ap as ai ct cu aj s h i j al l m am o an q ao">
+        <div class="af ag ba ai ia ct cu aj ic s h i j al l m am o an q ao">
+         <div class="af ap ah az aj s id h i j al l m am o an q ao">
+          <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+           <span class="ae aj ie if ig ih hr hs ht hw ii s ff ec ij h i j al l m am o an q ao br">
+            Brkic / Escobar
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="af ap ba az hn aj fz s h i j al l m am o an q ao">
+       <svg aria-label="verse" height="15" id="versusHeadToHead_svg__VS" style="flex-shrink: 0;" viewbox="0 0 13 9" width="15" x="0" xml:space="preserve" y="0">
+        <path d="M6.604.891L3.992 8H2.775L.157.891h1.251L3.37 6.735h.027L5.366.891z" fill="#B9C4CB" id="versusHeadToHead_svg__V">
+        </path>
+        <path d="M7.13 2.853C7.13 1.636 8.203.768 9.741.768c1.559 0 2.598.916 2.646 2.174h-1.135c-.089-.745-.636-1.203-1.511-1.203-.868 0-1.442.431-1.442 1.053 0 .492.362.827 1.155 1.019l1.128.273c1.436.349 1.955.909 1.955 1.928 0 1.237-1.169 2.112-2.755 2.112-1.668 0-2.707-.841-2.844-2.174h1.189c.144.813.69 1.203 1.654 1.203s1.559-.41 1.559-1.053c0-.513-.28-.807-1.094-1.005l-1.127-.274C7.78 4.5 7.13 3.878 7.13 2.853z" fill="#B9C4CB" id="versusHeadToHead_svg__S">
+        </path>
+       </svg>
+       <div class="af ap ah ai ct cu aj fz il s h i j al l m am o an q ao">
+       </div>
+      </div>
+      <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+       <div class="af ap as ai ct cu aj s h i j al l m am o an q ao">
+        <div class="af ag ba ai ia ct cu aj ic s h i j al l m am o an q ao">
+         <div class="af ap ah az aj s id h i j al l m am o an q ao">
+          <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+           <span class="ae aj ie if ig ih hr hs ht hw ii s ff ec ij h i j al l m am o an q ao br">
+            Arevalo / Rojer
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </a>
+     <div class="af ag ba az aj im s h i j al l m am o an q ao">
+      <div class="af ag ba az ct cu aj cv jc cx s cd gj is bk y h i j al l m am o an q ao" role="button" style="cursor: pointer;" tabindex="0">
+       <span class="in io ff ex ix ja fu">
+        +144
+       </span>
+      </div>
+      <div class="af ag ba az ct cu aj cv jc cx s gj is bk y h i j al l m am o an q ao" role="button" style="cursor: pointer;" tabindex="0">
+       <span class="in io ff ex ix ja fu">
+        -178
+       </span>
+      </div>
+     </div>
+    </div>
+    <a class="af ap ah ai aj s h i j al l m am o an q ao" href="/tennis/atp-adelaide-2023/brkic-escobar-v-arevalo-rojer-31998248" style="cursor: pointer;" target="_self" title="Brkic/Escobar v Arevalo/Rojer">
+     <div class="af ap as az aj cv bw s aw ax h i j al l m am o an q ao">
+      <div class="af ap ah az aj s h i j al l m am o an q ao">
+       <time class="aj jf s fx ex gw iy h i j al l m am o an q ao iz" datetime="2023-01-04T00:00:00.000Z">
+        Tue 5:00pm MT
+       </time>
+      </div>
+      <div class="af ap ah az aj bo cz cx s gh h i j al l m am o an q ao">
+       <span class="aj je s ff ex fo h i j al l m am o an q ao br">
+        More wagers
+       </span>
+       <svg fill="#1381E0" height="9" style="flex-shrink: 0;" viewbox="0 0 5 9" width="5">
+        <g id="arrow-right_svg__Page-1" stroke="none" stroke-width="1">
+         <path d="M.148.148a.5.5 0 000 .71l3.636 3.637L.148 8.143a.502.502 0 00.709.71l3.995-3.998a.5.5 0 000-.71L.857.149a.5.5 0 00-.71 0z" id="arrow-right_svg__arrow-right">
+         </path>
+        </g>
+       </svg>
+      </div>
+     </div>
+    </a>
+   </div>
+  </div>
+ </li>
+ <li>
+  <div class="hn aj s h i j al l m am o an q ao">
+   <div class="af ag ah ai ct cu aj fn s df hp hq bk h i j al l m am o an q ao">
+    <div class="af ap ah ai aj hy s ca cd ay h i j al l m am o an q ao">
+     <a class="af ag ba ai ct cu aj s hz h i j al l m am o an q ao" href="/tennis/atp-adelaide-2023/nishioka-v-mcdonald-31998386" style="cursor: pointer;" target="_self" title="Nishioka v McDonald">
+      <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+       <div class="af ap as ai ct cu aj s h i j al l m am o an q ao">
+        <div class="af ag ba ai ia ct cu aj ic s h i j al l m am o an q ao">
+         <div class="af ap ah az aj s id h i j al l m am o an q ao">
+          <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+           <span class="ae aj ie if ig ih hr hs ht hw ii s ff ec ij h i j al l m am o an q ao br">
+            Yoshihito Nishioka
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="af ap ba az hn aj fz s h i j al l m am o an q ao">
+       <svg aria-label="verse" height="15" id="versusHeadToHead_svg__VS" style="flex-shrink: 0;" viewbox="0 0 13 9" width="15" x="0" xml:space="preserve" y="0">
+        <path d="M6.604.891L3.992 8H2.775L.157.891h1.251L3.37 6.735h.027L5.366.891z" fill="#B9C4CB" id="versusHeadToHead_svg__V">
+        </path>
+        <path d="M7.13 2.853C7.13 1.636 8.203.768 9.741.768c1.559 0 2.598.916 2.646 2.174h-1.135c-.089-.745-.636-1.203-1.511-1.203-.868 0-1.442.431-1.442 1.053 0 .492.362.827 1.155 1.019l1.128.273c1.436.349 1.955.909 1.955 1.928 0 1.237-1.169 2.112-2.755 2.112-1.668 0-2.707-.841-2.844-2.174h1.189c.144.813.69 1.203 1.654 1.203s1.559-.41 1.559-1.053c0-.513-.28-.807-1.094-1.005l-1.127-.274C7.78 4.5 7.13 3.878 7.13 2.853z" fill="#B9C4CB" id="versusHeadToHead_svg__S">
+        </path>
+       </svg>
+       <div class="af ap ah ai ct cu aj fz il s h i j al l m am o an q ao">
+       </div>
+      </div>
+      <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+       <div class="af ap as ai ct cu aj s h i j al l m am o an q ao">
+        <div class="af ag ba ai ia ct cu aj ic s h i j al l m am o an q ao">
+         <div class="af ap ah az aj s id h i j al l m am o an q ao">
+          <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+           <span class="ae aj ie if ig ih hr hs ht hw ii s ff ec ij h i j al l m am o an q ao br">
+            Mackenzie Mcdonald
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </a>
+     <div class="af ag ba az aj im s h i j al l m am o an q ao">
+      <div class="af ag ba az ct cu aj cv jc cx s cd gj is bk y h i j al l m am o an q ao" role="button" style="cursor: pointer;" tabindex="0">
+       <span class="in io ff ex ix ja fu">
+        -162
+       </span>
+      </div>
+      <div class="af ag ba az ct cu aj cv jc cx s gj is bk y h i j al l m am o an q ao" role="button" style="cursor: pointer;" tabindex="0">
+       <span class="in io ff ex ix ja fu">
+        +134
+       </span>
+      </div>
+     </div>
+    </div>
+    <a class="af ap ah ai aj s h i j al l m am o an q ao" href="/tennis/atp-adelaide-2023/nishioka-v-mcdonald-31998386" style="cursor: pointer;" target="_self" title="Nishioka v McDonald">
+     <div class="af ap as az aj cv bw s aw ax h i j al l m am o an q ao">
+      <div class="af ap ah az aj s h i j al l m am o an q ao">
+       <time class="aj jf s fx ex gw iy h i j al l m am o an q ao iz" datetime="2023-01-04T00:00:00.000Z">
+        Tue 5:00pm MT
+       </time>
+      </div>
+      <div class="af ap ah az aj bo cz cx s gh h i j al l m am o an q ao">
+       <span class="aj je s ff ex fo h i j al l m am o an q ao br">
+        More wagers
+       </span>
+       <svg fill="#1381E0" height="9" style="flex-shrink: 0;" viewbox="0 0 5 9" width="5">
+        <g id="arrow-right_svg__Page-1" stroke="none" stroke-width="1">
+         <path d="M.148.148a.5.5 0 000 .71l3.636 3.637L.148 8.143a.502.502 0 00.709.71l3.995-3.998a.5.5 0 000-.71L.857.149a.5.5 0 00-.71 0z" id="arrow-right_svg__arrow-right">
+         </path>
+        </g>
+       </svg>
+      </div>
+     </div>
+    </a>
+   </div>
+  </div>
+ </li>
+ <li>
+  <div class="hn aj s h i j al l m am o an q ao">
+   <div class="af ag ah ai ct cu aj fn s df hp hq bk h i j al l m am o an q ao">
+    <div class="af ap ah ai aj hy s ca cd ay h i j al l m am o an q ao">
+     <a class="af ag ba ai ct cu aj s hz h i j al l m am o an q ao" href="/tennis/atp-adelaide-2023/khachanov-rublev-v-nys-zielinski-31998152" style="cursor: pointer;" target="_self" title="Khachanov/Rublev v Nys/Zielinski">
+      <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+       <div class="af ap as ai ct cu aj s h i j al l m am o an q ao">
+        <div class="af ag ba ai ia ct cu aj ic s h i j al l m am o an q ao">
+         <div class="af ap ah az aj s id h i j al l m am o an q ao">
+          <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+           <span class="ae aj ie if ig ih hr hs ht hw ii s ff ec ij h i j al l m am o an q ao br">
+            Khachanov / Rublev
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="af ap ba az hn aj fz s h i j al l m am o an q ao">
+       <svg aria-label="verse" height="15" id="versusHeadToHead_svg__VS" style="flex-shrink: 0;" viewbox="0 0 13 9" width="15" x="0" xml:space="preserve" y="0">
+        <path d="M6.604.891L3.992 8H2.775L.157.891h1.251L3.37 6.735h.027L5.366.891z" fill="#B9C4CB" id="versusHeadToHead_svg__V">
+        </path>
+        <path d="M7.13 2.853C7.13 1.636 8.203.768 9.741.768c1.559 0 2.598.916 2.646 2.174h-1.135c-.089-.745-.636-1.203-1.511-1.203-.868 0-1.442.431-1.442 1.053 0 .492.362.827 1.155 1.019l1.128.273c1.436.349 1.955.909 1.955 1.928 0 1.237-1.169 2.112-2.755 2.112-1.668 0-2.707-.841-2.844-2.174h1.189c.144.813.69 1.203 1.654 1.203s1.559-.41 1.559-1.053c0-.513-.28-.807-1.094-1.005l-1.127-.274C7.78 4.5 7.13 3.878 7.13 2.853z" fill="#B9C4CB" id="versusHeadToHead_svg__S">
+        </path>
+       </svg>
+       <div class="af ap ah ai ct cu aj fz il s h i j al l m am o an q ao">
+       </div>
+      </div>
+      <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+       <div class="af ap as ai ct cu aj s h i j al l m am o an q ao">
+        <div class="af ag ba ai ia ct cu aj ic s h i j al l m am o an q ao">
+         <div class="af ap ah az aj s id h i j al l m am o an q ao">
+          <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+           <span class="ae aj ie if ig ih hr hs ht hw ii s ff ec ij h i j al l m am o an q ao br">
+            Nys / Zielinski
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </a>
+     <div class="af ag ba az aj im s h i j al l m am o an q ao">
+      <div class="af ag ba az ct cu aj cv jc cx s cd gj is bk y h i j al l m am o an q ao" role="button" style="cursor: pointer;" tabindex="0">
+       <span class="in io ff ex ix ja fu">
+        +112
+       </span>
+      </div>
+      <div class="af ag ba az ct cu aj cv jc cx s gj is bk y h i j al l m am o an q ao" role="button" style="cursor: pointer;" tabindex="0">
+       <span class="in io ff ex ix ja fu">
+        -136
+       </span>
+      </div>
+     </div>
+    </div>
+    <a class="af ap ah ai aj s h i j al l m am o an q ao" href="/tennis/atp-adelaide-2023/khachanov-rublev-v-nys-zielinski-31998152" style="cursor: pointer;" target="_self" title="Khachanov/Rublev v Nys/Zielinski">
+     <div class="af ap as az aj cv bw s aw ax h i j al l m am o an q ao">
+      <div class="af ap ah az aj s h i j al l m am o an q ao">
+       <time class="aj jf s fx ex gw iy h i j al l m am o an q ao iz" datetime="2023-01-04T00:00:00.000Z">
+        Tue 5:00pm MT
+       </time>
+      </div>
+      <div class="af ap ah az aj bo cz cx s gh h i j al l m am o an q ao">
+       <span class="aj je s ff ex fo h i j al l m am o an q ao br">
+        More wagers
+       </span>
+       <svg fill="#1381E0" height="9" style="flex-shrink: 0;" viewbox="0 0 5 9" width="5">
+        <g id="arrow-right_svg__Page-1" stroke="none" stroke-width="1">
+         <path d="M.148.148a.5.5 0 000 .71l3.636 3.637L.148 8.143a.502.502 0 00.709.71l3.995-3.998a.5.5 0 000-.71L.857.149a.5.5 0 00-.71 0z" id="arrow-right_svg__arrow-right">
+         </path>
+        </g>
+       </svg>
+      </div>
+     </div>
+    </a>
+   </div>
+  </div>
+ </li>
+ <li>
+  <div class="hn aj s h i j al l m am o an q ao">
+   <div style="box-shadow: rgba(0, 0, 0, 0.2) 0px 1px 4px; overflow: hidden; margin-bottom: 4px; border-radius: 0px 0px 4px 4px;">
+    <div class="af ag ah ai ct cu aj fn s df hp hq bk h i j al l m am o an q ao">
+     <div class="af ap ah ai aj hy s ca cd ay h i j al l m am o an q ao">
+      <a class="af ag ba ai ct cu aj s hz h i j al l m am o an q ao" href="/tennis/atp-adelaide-2023/giron-v-popyrin-31998466" style="cursor: pointer;" target="_self" title="Giron v Popyrin">
+       <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+        <div class="af ap as ai ct cu aj s h i j al l m am o an q ao">
+         <div class="af ag ba ai ia ct cu aj ic s h i j al l m am o an q ao">
+          <div class="af ap ah az aj s id h i j al l m am o an q ao">
+           <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+            <span class="ae aj ie if ig ih hr hs ht hw ii s ff ec ij h i j al l m am o an q ao br">
+             Marcos Giron
+            </span>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="af ap ba az hn aj fz s h i j al l m am o an q ao">
+        <svg aria-label="verse" height="15" id="versusHeadToHead_svg__VS" style="flex-shrink: 0;" viewbox="0 0 13 9" width="15" x="0" xml:space="preserve" y="0">
+         <path d="M6.604.891L3.992 8H2.775L.157.891h1.251L3.37 6.735h.027L5.366.891z" fill="#B9C4CB" id="versusHeadToHead_svg__V">
+         </path>
+         <path d="M7.13 2.853C7.13 1.636 8.203.768 9.741.768c1.559 0 2.598.916 2.646 2.174h-1.135c-.089-.745-.636-1.203-1.511-1.203-.868 0-1.442.431-1.442 1.053 0 .492.362.827 1.155 1.019l1.128.273c1.436.349 1.955.909 1.955 1.928 0 1.237-1.169 2.112-2.755 2.112-1.668 0-2.707-.841-2.844-2.174h1.189c.144.813.69 1.203 1.654 1.203s1.559-.41 1.559-1.053c0-.513-.28-.807-1.094-1.005l-1.127-.274C7.78 4.5 7.13 3.878 7.13 2.853z" fill="#B9C4CB" id="versusHeadToHead_svg__S">
+         </path>
+        </svg>
+        <div class="af ap ah ai ct cu aj fz il s h i j al l m am o an q ao">
+        </div>
+       </div>
+       <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+        <div class="af ap as ai ct cu aj s h i j al l m am o an q ao">
+         <div class="af ag ba ai ia ct cu aj ic s h i j al l m am o an q ao">
+          <div class="af ap ah az aj s id h i j al l m am o an q ao">
+           <div class="af ag ah ai ct cu aj s h i j al l m am o an q ao">
+            <span class="ae aj ie if ig ih hr hs ht hw ii s ff ec ij h i j al l m am o an q ao br">
+             Alexei Popyrin
+            </span>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </a>
+      <div class="af ag ba az aj im s h i j al l m am o an q ao">
+       <div class="af ag ba az ct cu aj cv jc cx s cd gj is bk y h i j al l m am o an q ao" role="button" style="cursor: pointer;" tabindex="0">
+        <span class="in io ff ex ix ja fu">
+         -102
+        </span>
+       </div>
+       <div class="af ag ba az ct cu aj cv jc cx s gj is bk y h i j al l m am o an q ao" role="button" style="cursor: pointer;" tabindex="0">
+        <span class="in io ff ex ix ja fu">
+         -132
+        </span>
+       </div>
+      </div>
+     </div>
+     <a class="af ap ah ai aj s h i j al l m am o an q ao" href="/tennis/atp-adelaide-2023/giron-v-popyrin-31998466" style="cursor: pointer;" target="_self" title="Giron v Popyrin">
+      <div class="af ap as az aj cv bw s aw ax h i j al l m am o an q ao">
+       <div class="af ap ah az aj s h i j al l m am o an q ao">
+        <time class="aj jf s fx ex gw iy h i j al l m am o an q ao iz" datetime="2023-01-04T00:00:00.000Z">
+         Tue 5:00pm MT
+        </time>
+       </div>
+       <div class="af ap ah az aj bo cz cx s gh h i j al l m am o an q ao">
+        <span class="aj je s ff ex fo h i j al l m am o an q ao br">
+         More wagers
+        </span>
+        <svg fill="#1381E0" height="9" style="flex-shrink: 0;" viewbox="0 0 5 9" width="5">
+         <g id="arrow-right_svg__Page-1" stroke="none" stroke-width="1">
+          <path d="M.148.148a.5.5 0 000 .71l3.636 3.637L.148 8.143a.502.502 0 00.709.71l3.995-3.998a.5.5 0 000-.71L.857.149a.5.5 0 00-.71 0z" id="arrow-right_svg__arrow-right">
+          </path>
+         </g>
+        </svg>
+       </div>
+      </div>
+     </a>
+    </div>
+   </div>
+  </div>
+ </li>
+ <li>
+  <div class="hn aj s h i j al l m am o an q ao">
+   <div class="aj dj ak s jg h i j al l m am o an q ao">
+   </div>
+  </div>
+ </li>
+</ul>
