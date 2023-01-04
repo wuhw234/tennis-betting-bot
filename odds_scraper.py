@@ -17,15 +17,13 @@ def get_odds():
 
     fanduel_html = get_page_html(driver, fanduel_url)
     mgm_html = get_mgm_html(driver, mgm_url)
-    draftkings_html = get_page_html(driver, draftkings_url)
+    draftkings_html = get_draftkings_html(driver, draftkings_url)
 
     match_odds = {}
 
     get_fanduel_matches(fanduel_html, match_odds)
     get_mgm_matches(mgm_html, match_odds)
     get_draftkings_matches(draftkings_html, match_odds)
-
-    driver.quit()
 
     return match_odds
 
@@ -38,11 +36,14 @@ def get_fanduel_matches(fanduel_html, match_odds):
             all_matches = item
             break
 
+    # f = open("newfile.txt", "w")
+    # f.write(all_matches.prettify())
+    # f.close()
     for match in all_matches:
         is_live = match.find(attrs={'aria-label': 'live event'})
         spans = match.find_all('span')
 
-        if not spans or is_live: #if match has started or is not a match
+        if len(spans) != 5 or is_live: #if match has started or betting not allowed
             continue
         is_doubles = '/' in spans[0].text
         if is_doubles:
@@ -96,12 +97,17 @@ def get_mgm_matches(mgm_html, match_odds):
 def get_draftkings_matches(draftkings_html, match_odds):
     soup = BeautifulSoup(draftkings_html, 'html.parser')
     all_matches = soup.select('div.sportsbook-event-accordion__children-wrapper')
+    # f = open("newfile2.txt", "w")
+    # f.write(all_matches.prettify())
+    # f.close()
 
     for match in all_matches:
         is_live = match.select('span.sportsbook__icon--live')
         if is_live:
             continue
         players = match.select('span.sportsbook-outcome-cell__label')
+        if len(players) != 2:
+            continue
         player1, player2 = players[0].text, players[1].text
         player1, player2 = standardize_name(player1), standardize_name(player2)
         
@@ -109,8 +115,12 @@ def get_draftkings_matches(draftkings_html, match_odds):
         player1_odds, player2_odds = odds[0].text, odds[1].text
         if player1_odds[0] != '+':
             player1_odds = int(swap_minus(player1_odds))
+        else:
+            player1_odds = int(player1_odds)
         if player2_odds[0] != '+':
             player2_odds = int(swap_minus(player2_odds))
+        else:
+            player2_odds = int(player2_odds)
         
         if player2 > player1:
             player1, player2 = player2, player1
@@ -122,8 +132,8 @@ def get_draftkings_matches(draftkings_html, match_odds):
             match_odds[hash]['p1_odds'] = []
             match_odds[hash]['p2_odds'] = []
 
-        match_odds[hash]['p1_odds'].append((player1_odds, 'BetMGM'))
-        match_odds[hash]['p2_odds'].append((player2_odds, 'BetMGM'))
+        match_odds[hash]['p1_odds'].append((player1_odds, 'DraftKings'))
+        match_odds[hash]['p2_odds'].append((player2_odds, 'DraftKings'))
 
         
 def get_page_html(driver, url):
@@ -142,8 +152,16 @@ def get_mgm_html(driver, url):
 
     return driver.page_source
 
+def get_draftkings_html(driver, url):
+    driver.get(url)
+    WebDriverWait(driver, timeout=15).until(EC.presence_of_element_located((By.CLASS_NAME, 'sportsbook-offer-category-card')))
+
+    return driver.page_source
+
+
 def standardize_name(player):
-    player.strip()
+    player = player.strip()
+    player = player.lower()
     player_arr = player.split()
     return player_arr[0] + " " + player_arr[-1]
 
