@@ -38,7 +38,7 @@ def calculate_bet():
         else:
             kelly_value = get_kelly_criterion(player2_elo_win_prob, player2_moneyline)
 
-        positive_bets.append([kelly_value, max_diff, sportsbook, chosen_player, player1, player1_elo_win_prob, 
+        positive_bets.append([max_diff, kelly_value, sportsbook, chosen_player, player1, player1_elo_win_prob, 
                               player1_odds_win_prob, player2, player2_elo_win_prob, player2_odds_win_prob])
     
     positive_bets.sort(reverse=True)
@@ -74,8 +74,10 @@ def get_elo_win_probs(player1, player2, elo_dict, gender, surface, match_type):
 
     player1_elo, player1_surface_elo = elo_dict[player1]['elo'], elo_dict[player1][surface_string]
     player2_elo, player2_surface_elo = elo_dict[player2]['elo'], elo_dict[player2][surface_string]
-    player1_weighted_elo = get_weighted_elo(player1_elo, player1_surface_elo, gender, surface)
-    player2_weighted_elo = get_weighted_elo(player2_elo, player2_surface_elo, gender, surface)
+    player1_yelo, player2_yelo = elo_dict[player1]['yelo'], elo_dict[player2]['yelo']
+    player1_matches, player2_matches = elo_dict[player1]['total_matches'], elo_dict[player2]['total_matches']
+    player1_weighted_elo = get_weighted_elo(player1_elo, player1_yelo, player1_matches, player1_surface_elo, gender, surface)
+    player2_weighted_elo = get_weighted_elo(player2_elo, player2_yelo, player2_matches, player2_surface_elo, gender, surface)
 
     player1_elo_win_prob = elo_to_probability(player1_weighted_elo, player2_weighted_elo)
     if match_type == '5':
@@ -94,7 +96,7 @@ def get_odds_win_probs(match_odds, hash):
     return sportsbook1, sportsbook2, player1_odds_win_prob, player2_odds_win_prob
 
 def output_results(positive_bets):
-    for kelly_val, max_diff, sportsbook, chosen_player, p1, p1_elo_win, p1_odds_win, p2, p2_elo_win, p2_odds_win in positive_bets:
+    for max_diff, kelly_val, sportsbook, chosen_player, p1, p1_elo_win, p1_odds_win, p2, p2_elo_win, p2_odds_win in positive_bets:
         print(f'Recommended bet: {kelly_val*100}% on {chosen_player} on {sportsbook}.')
         print(f'{p1} elo win: {p1_elo_win*100}%. {p1} odds win: {p1_odds_win*100}%.')
         print(f'{p2} elo win: {p2_elo_win*100}%. {p2} odds win: {p2_odds_win*100}%.')
