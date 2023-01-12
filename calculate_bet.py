@@ -74,8 +74,10 @@ def get_elo_win_probs(player1, player2, elo_dict, gender, surface, match_type):
 
     player1_elo, player1_surface_elo = elo_dict[player1]['elo'], elo_dict[player1][surface_string]
     player2_elo, player2_surface_elo = elo_dict[player2]['elo'], elo_dict[player2][surface_string]
-    player1_yelo, player2_yelo = elo_dict[player1]['yelo'], elo_dict[player2]['yelo']
-    player1_matches, player2_matches = elo_dict[player1]['total_matches'], elo_dict[player2]['total_matches']
+    # player1_yelo, player2_yelo = elo_dict[player1]['yelo'], elo_dict[player2]['yelo'] uncomment later in the year
+    # player1_matches, player2_matches = elo_dict[player1]['total_matches'], elo_dict[player2]['total_matches']
+    player1_yelo, player2_yelo = 0, 0
+    player1_matches, player2_matches = 0, 0
     player1_weighted_elo = get_weighted_elo(player1_elo, player1_yelo, player1_matches, player1_surface_elo, gender, surface)
     player2_weighted_elo = get_weighted_elo(player2_elo, player2_yelo, player2_matches, player2_surface_elo, gender, surface)
 

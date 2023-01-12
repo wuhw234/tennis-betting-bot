@@ -28,10 +28,12 @@ def get_bo5_odds(bo3):
     return p5
 
 def get_weighted_elo(elo, yelo, matches, surface_elo, gender, surface):
-    yelo_weight = (matches / 100) * 0.5
     surface_weight = surface_weights[gender][surface]
+    if yelo == 0 and matches == 0:
+        return (1 - surface_weight) * elo + surface_weight * surface_elo
+    yelo_weight = (matches / 100) * 0.5
     overall_elo = (1 - surface_weight) * elo + surface_weight * surface_elo
-    return (yelo_weight * yelo) + ((1 - yelo_weight) * overall_elo)
+    return (yelo_weight * yelo) + ((1 - yelo_weight) * overall_elo) # considers both past years performance and overall performance
 
 def get_kelly_criterion(elo_prob, moneyline_odds): #scaled kelly criterion
     if moneyline_odds > 0:
