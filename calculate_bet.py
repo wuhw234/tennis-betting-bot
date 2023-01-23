@@ -63,15 +63,16 @@ def get_surface_string(surface):
     if surface == 'h':
         surface_string = 'hard_elo'
     elif surface == 'g':
-        surface_string == 'grass_elo'
+        surface_string = 'grass_elo'
     else:
-        surface_string == 'clay_elo'
+        surface_string = 'clay_elo'
 
     return surface_string
 
 def get_elo_win_probs(player1, player2, elo_dict, gender, surface, match_type):
     surface_string = get_surface_string(surface)
 
+    print(elo_dict[player1]['elo'], surface_string)
     player1_elo, player1_surface_elo = elo_dict[player1]['elo'], elo_dict[player1][surface_string]
     player2_elo, player2_surface_elo = elo_dict[player2]['elo'], elo_dict[player2][surface_string]
     # player1_yelo, player2_yelo = elo_dict[player1]['yelo'], elo_dict[player2]['yelo'] uncomment later in the year
